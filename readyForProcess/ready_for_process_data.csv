@@ -209,7 +209,7 @@ Matthew Semelsberger,USA,3.0,1.0,0.0,1.0,0.0,2.0,0.0,0
 Jordan Williams,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Shavkat Rakhmonov,KAZ,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0
 Ramiz Brahimaj,USA,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Sasha Palatnikov,HOK,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
+Sasha Palatnikov,HKG,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Louis Cosce,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Philip Rowe,USA,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Carlston Harris,GUA,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0
@@ -663,7 +663,7 @@ Lorenz Larkin,USA,5.0,2.0,0.0,0.0,1.0,5.0,1.0,0
 Romero Cotton,USA,5.0,0.0,0.0,3.0,0.0,2.0,0.0,0
 Gegard Mousasi,NED,6.0,1.0,0.0,3.0,0.0,3.0,0.0,1
 Costello van Steenis,NED,5.0,1.0,0.0,0.0,0.0,5.0,0.0,0
-Charlie Ward,ITL,6.0,1.0,0.0,3.0,0.0,3.0,0.0,0
+Charlie Ward,ITA,6.0,1.0,0.0,3.0,0.0,3.0,0.0,0
 Joseph Creer,USA,2.0,2.0,0.0,1.0,1.0,1.0,1.0,0
 Norbert Novenyi Jr,HUN,4.0,0.0,0.0,3.0,0.0,1.0,0.0,0
 Hracho Darpinyan,ARM,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -709,7 +709,7 @@ Grachik Bozinyan,ARM,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lewis Long,WAL,3.0,1.0,0.0,0.0,0.0,3.0,0.0,0
 Mark Lemminger,USA,2.0,3.0,0.0,0.0,2.0,2.0,1.0,0
 Jordan Mein,CAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Ross Houston,SCO,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Ross Houston,SCT,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Roman Faraldo,USA,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0
 Jaleel Willis,USA,2.0,1.0,0.0,1.0,0.0,1.0,0.0,0
 Vinicius de Jesus,BRA,3.0,3.0,0.0,1.0,2.0,2.0,1.0,0
@@ -732,9 +732,9 @@ Manny Muro,USA,2.0,1.0,0.0,1.0,0.0,1.0,0.0,0
 Mandel Nallo,CAN,3.0,1.0,0.0,1.0,0.0,2.0,0.0,0
 Jake Smith,USA,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Charlie Leary,ENG,3.0,2.0,0.0,0.0,1.0,3.0,1.0,0
-Aviv Gozali,ISL,6.0,0.0,0.0,2.0,0.0,4.0,0.0,0
+Aviv Gozali,ISR,6.0,0.0,0.0,2.0,0.0,4.0,0.0,0
 Nainoa Dung,USA,3.0,2.0,0.0,1.0,0.0,2.0,2.0,0
-Peter Queally,ITL,2.0,2.0,0.0,1.0,0.0,1.0,2.0,0
+Peter Queally,ITA,2.0,2.0,0.0,1.0,0.0,1.0,2.0,0
 Vladimir Tokov,RUS,2.0,1.0,0.0,1.0,0.0,1.0,0.0,0
 Saul Rogers,ENG,3.0,2.0,0.0,2.0,0.0,1.0,2.0,0
 Gavin Hughes,ENG,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -781,9 +781,9 @@ Weber Almeida,BRA,3.0,1.0,0.0,1.0,0.0,2.0,0.0,0
 Nathan Rose,ENG,1.0,3.0,0.0,0.0,0.0,0.0,3.0,0
 Aiden Lee,ENG,3.0,2.0,0.0,2.0,0.0,1.0,2.0,0
 Lucas Brennan,USA,5.0,0.0,0.0,2.0,0.0,3.0,0.0,0
-Ciaran Clarke,ITL,4.0,0.0,0.0,1.0,0.0,3.0,0.0,0
+Ciaran Clarke,ITA,4.0,0.0,0.0,1.0,0.0,3.0,0.0,0
 Ilias Bulaid,MOR,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0
-Rob Whiteford,SCO,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Rob Whiteford,SCT,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Asaël Adjoudj,FRA,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 John De Jesus,USA,2.0,2.0,0.0,1.0,1.0,1.0,1.0,0
 Vladyslav Parubchenko,UKR,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -798,8 +798,8 @@ Isaiah Hokit,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Gadzhi Rabadanov,RUS,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Khasan Magomedsharipov,RUS,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Darrion Caldwell,USA,12.0,4.0,0.0,10.0,3.0,2.0,1.0,1
-James Gallagher,ITL,8.0,2.0,0.0,4.0,1.0,4.0,1.0,0
-Brian Moore,ITL,5.0,4.0,0.0,0.0,0.0,5.0,4.0,0
+James Gallagher,ITA,8.0,2.0,0.0,4.0,1.0,4.0,1.0,0
+Brian Moore,ITA,5.0,4.0,0.0,0.0,0.0,5.0,4.0,0
 Patchy Mix,USA,4.0,1.0,0.0,3.0,0.0,1.0,0.0,0
 Leandro Higo,BRA,4.0,3.0,0.0,3.0,0.0,1.0,3.0,0
 Juan Archuleta,USA,7.0,2.0,0.0,4.0,0.0,3.0,2.0,1
@@ -822,7 +822,7 @@ Bobby Seronio III,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Khurshed Kakhorov,TAJ,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Nikita Mikhailov,RUS,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Jared Scoggins,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Sinead Kavanagh,ITL,4.0,5.0,0.0,3.0,1.0,1.0,4.0,0
+Sinead Kavanagh,ITA,4.0,5.0,0.0,3.0,1.0,1.0,4.0,0
 Arlene Blencowe,AUS,8.0,4.0,0.0,0.0,3.0,8.0,1.0,0
 Talita Nogueira,BRA,2.0,2.0,0.0,1.0,1.0,1.0,1.0,0
 Janay Harding,NZL,3.0,3.0,0.0,1.0,0.0,2.0,3.0,0
@@ -1684,7 +1684,7 @@ Amato Estabili,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Amatov Janybek,KGZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Amatov Zhanybek,KGZ,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Amaugou Frank,KGZ,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Amaya David,VEN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Amaya David,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Amaya Raul,USA,1.0,2.0,0.0,1.0,1.0,0.0,0.0,0
 Ambang Francios,USA,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Ambarcumian Lev,UKR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -2512,12 +2512,12 @@ Baldree Jonathan,MEX,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Baldutti William,MEX,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0
 Baldwin Mike,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Balejko Wojciech,POL,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
-Balemaken Lenou Victoire,CMR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Balestra Jacopo,CMR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Balewicz Ray,CMR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Balica Victor,CMR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Balicki Robert,CMR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Balijagic Berin,CMR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Balemaken Lenou Victoire,CAM,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Balestra Jacopo,CAM,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Balewicz Ray,CAM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Balica Victor,CAM,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Balicki Robert,CAM,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Balijagic Berin,CAM,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Balin Laura,ARG,0.0,0.0,0.0,4.0,1.0,5.0,2.0,0
 Balkenbush Casey,ARG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ball Brandon,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -3015,8 +3015,8 @@ Bekichev Iouri,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Bekishev Mirat,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Bekmuratov Marat,BRA,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Beknazarov Emilbek,KGZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Bektic Mirsad,BIH,0.0,0.0,0.0,6.0,2.0,3.0,1.0,0
-Bektimirov Asrail,BIH,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Bektic Mirsad,BOS,0.0,0.0,0.0,6.0,2.0,3.0,1.0,0
+Bektimirov Asrail,BOS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Belanda Kamila,POL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Belanger Dave,POL,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0
 Belanger George,POL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -3126,10 +3126,10 @@ Benicio Luciano,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Benitez Cesar,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Benitez Delfino,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Benitez Gabriel,MEX,0.0,0.0,0.0,8.0,3.0,0.0,0.0,0
-Benitez Karla,VEN,0.0,0.0,0.0,6.0,1.0,2.0,5.0,0
-Benito Solorzano Juan Jose,VEN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Benjamin Angelier,VEN,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0
-Benjamin Devin,VEN,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
+Benitez Karla,VEZ,0.0,0.0,0.0,6.0,1.0,2.0,5.0,0
+Benito Solorzano Juan Jose,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Benjamin Angelier,VEZ,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0
+Benjamin Devin,VEZ,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Benjar Loren,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Benjar Omar,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Benjilany Adil,USA,6.0,3.0,0.0,4.0,0.0,0.0,1.0,0
@@ -3470,8 +3470,8 @@ Blanchfield Erin,USA,8.0,1.0,0.0,2.0,0.0,1.0,0.0,0
 Blanco Dominic,USA,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0
 Blanco Keagon,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Blanco Mauricio,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Blanco Maximo,VEN,0.0,0.0,0.0,8.0,0.0,0.0,4.0,0
-Bland Aron,VEN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Blanco Maximo,VEZ,0.0,0.0,0.0,8.0,0.0,0.0,4.0,0
+Bland Aron,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Bland B.J.,NZL,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Blanita Constantin,IRL,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Blanton Jeremy,IRL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -3971,8 +3971,8 @@ Bridges Andy,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Bridges Charles,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Bridgewater Chris,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Bridgewater Roy,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Briefkani Alaan,HOL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Briere Travis,HOL,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
+Briefkani Alaan,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Briere Travis,NED,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Brigagao Marcos,BRA,0.0,0.0,0.0,8.0,0.0,3.0,0.0,0
 Briggs Tom,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Brigham Curtis,BRA,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0
@@ -4740,9 +4740,9 @@ Carmouche Liz,USA,0.0,0.0,0.0,7.0,0.0,3.0,2.0,0
 Carnahan Kendall,USA,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Carneiro Roan,BRA,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0
 Carnelossi Ariane,BRA,0.0,0.0,0.0,9.0,1.0,2.0,1.0,0
-Carney Kevin,NIR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Carney Sam,NIR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Carney Todd,NIR,2.0,7.0,0.0,1.0,3.0,1.0,3.0,0
+Carney Kevin,NGR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Carney Sam,NGR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Carney Todd,NGR,2.0,7.0,0.0,1.0,3.0,1.0,3.0,0
 Carol Jerome,ENG,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Carolei Dominic,ENG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Carolina Ana,ENG,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -5458,9 +5458,9 @@ Clark Wes,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Clarke Ciaran,IRL,4.0,0.0,0.0,0.0,0.0,2.0,0.0,0
 Clarke Grant,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Clarke Jason,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Clarke Joe,NIR,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Clarke John,NIR,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Clarke Justin,NIR,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Clarke Joe,NGR,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
+Clarke John,NGR,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
+Clarke Justin,NGR,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Clarke Mitch,CAN,0.0,0.0,0.0,1.0,2.0,7.0,1.0,0
 Clarke Tom,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Clarkson Craig,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -5773,9 +5773,9 @@ Cook Russell,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Cook Tim,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Cook TJ,USA,0.0,0.0,0.0,9.0,1.0,2.0,4.0,0
 Cook Tom,USA,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0
-Cooke Conor,NIR,1.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Cooke Mike,NIR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Cooke Sean,NIR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Cooke Conor,NGR,1.0,2.0,0.0,0.0,0.0,0.0,2.0,0
+Cooke Mike,NGR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Cooke Sean,NGR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Cooke Steve,MLT,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Cooke Tevin,USA,4.0,1.0,0.0,2.0,0.0,1.0,1.0,0
 Cookman Brendan,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -5921,8 +5921,8 @@ Corvino Michael,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Cosce Louis,USA,7.0,1.0,0.0,5.0,1.0,2.0,0.0,0
 Cosce Orion,USA,7.0,1.0,0.0,6.0,1.0,1.0,0.0,0
 Cosenday Fernando,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Cosic Elvir,BIH,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Cosio Miguel,BIH,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
+Cosic Elvir,BOS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Cosio Miguel,BOS,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Coslovsky Alejandro Ezequiel,ARG,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0
 Cossio Sergio,MEX,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0
 Cossio Dominguez Sergio Daniel,MEX,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
@@ -6469,13 +6469,13 @@ Dalla Clemente Andrine,FRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Dallek Rafael,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Dalli Gokmen,SUI,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Dallow Ross,SUI,0.0,4.0,0.0,0.0,3.0,0.0,1.0,0
-Dalton Decky,NIR,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Dalton Declan,NIR,7.0,3.0,0.0,4.0,1.0,0.0,0.0,0
-Dalton Gregg,NIR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Dalton Jayson,NIR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Dalton Jorge,NIR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Dalton Luke,NIR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Dalton Richard,NIR,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
+Dalton Decky,NGR,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
+Dalton Declan,NGR,7.0,3.0,0.0,4.0,1.0,0.0,0.0,0
+Dalton Gregg,NGR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Dalton Jayson,NGR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Dalton Jorge,NGR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Dalton Luke,NGR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Dalton Richard,NGR,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Daly Aisling,IRL,0.0,0.0,0.0,5.0,1.0,8.0,0.0,0
 Daly Ayo,IRL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Dalziel Bobbi Jo,CAN,5.0,2.0,0.0,3.0,0.0,0.0,2.0,0
@@ -6598,8 +6598,8 @@ David Jan,IRL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Davidovich Vladimir,BLR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Davids Cole,BLR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Davids Sharice,BLR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Davidsdottir Sunna,ISL,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Davidson Alex,ISL,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
+Davidsdottir Sunna,ISR,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Davidson Alex,ISR,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Davidson Brian,USA,0.0,0.0,0.0,6.0,2.0,2.0,1.0,0
 Davidson Clay,USA,2.0,6.0,0.0,0.0,2.0,2.0,2.0,0
 Davidson Eric,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -7539,7 +7539,7 @@ dos Santos Silva Fernando,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 dos Santos Silva Joao Vitor,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 dos Santos Silva Renan Carlos,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 dos Santos Vales Marcio Alex,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Dosenovic Branislav,BIH,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Dosenovic Branislav,BOS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Doskalchuk Oleksandr,UKR,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0
 Doski Lee,UKR,1.0,5.0,0.0,0.0,3.0,1.0,2.0,0
 Doss Lee,UKR,1.0,3.0,0.0,1.0,2.0,0.0,1.0,0
@@ -8398,10 +8398,10 @@ Fan Thomas,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Fann Jason,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Fann Stryder,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Fannon Mike,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Fanny Gerardo,AHO,0.0,0.0,0.0,6.0,0.0,3.0,2.0,0
-Fanomez Franky,AHO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Fanshier James,AHO,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0
-Fantasia Roberto,AHO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Fanny Gerardo,NED,0.0,0.0,0.0,6.0,0.0,3.0,2.0,0
+Fanomez Franky,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Fanshier James,NED,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0
+Fantasia Roberto,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Fantini Henrique,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Faour Mahmod,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Faraco Murilo,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
@@ -9474,9 +9474,9 @@ Gapizov Shamil,UKR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Gapranov Yaroslav,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Garabet Huseyin,RUS,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Garaeva Gulnara,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Garagorri Eduardo,URU,0.0,0.0,0.0,4.0,0.0,6.0,2.0,0
-Garass Ed,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Garba Vojtech,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Garagorri Eduardo,RUS,0.0,0.0,0.0,4.0,0.0,6.0,2.0,0
+Garass Ed,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Garba Vojtech,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Garbatt Lindsay,CAN,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0
 Garbrandt Cody,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Garbuz Nicolai,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -10107,7 +10107,7 @@ Gonzalez Enrique,USA,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0
 Gonzalez Erick,USA,0.0,0.0,0.0,8.0,1.0,1.0,2.0,0
 Gonzalez Fabian,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Gonzalez Fernando,USA,0.0,0.0,0.0,9.0,3.0,8.0,4.0,0
-Gonzalez Francisco,VEN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Gonzalez Francisco,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Gonzalez Guillermo,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Gonzalez Isidro,USA,3.0,8.0,0.0,0.0,2.0,2.0,5.0,0
 Gonzalez Ismael,USA,0.0,3.0,0.0,0.0,1.0,0.0,1.0,0
@@ -10546,17 +10546,17 @@ Guardado Gil,USA,5.0,3.0,0.0,2.0,1.0,2.0,2.0,0
 Guardado Taylor,USA,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Guardiola Bill,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Guardiola Sam,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Guariguata Campos Juan Rafael,VEN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Guarin Jhon,VEN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Guarriello Taimak,VEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Gubin Sergey,VEN,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Guchmazov Khristofor,VEN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Gudde Trevor,VEN,2.0,2.0,0.0,1.0,1.0,1.0,1.0,0
-Gudenschwagger Jesse,VEN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Guedes Edward,VEN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Guedjev Lubomir,VEN,0.0,3.0,0.0,0.0,1.0,0.0,1.0,0
-Gueit Sebastien,VEN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Guel Joey,VEN,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
+Guariguata Campos Juan Rafael,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Guarin Jhon,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Guarriello Taimak,VEZ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Gubin Sergey,VEZ,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
+Guchmazov Khristofor,VEZ,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Gudde Trevor,VEZ,2.0,2.0,0.0,1.0,1.0,1.0,1.0,0
+Gudenschwagger Jesse,VEZ,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Guedes Edward,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Guedjev Lubomir,VEZ,0.0,3.0,0.0,0.0,1.0,0.0,1.0,0
+Gueit Sebastien,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Guel Joey,VEZ,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Guelmino Nandor,AUT,0.0,0.0,0.0,3.0,4.0,6.0,1.0,0
 Guereyev Yunus,AUT,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Guerin Barry,AUT,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -10786,14 +10786,14 @@ Hadribeaj Adrian,USA,4.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Hadsel Steve,USA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Hadzic Adnan,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Hadzic Alden,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Hadzovic Damir,BIH,0.0,0.0,0.0,7.0,1.0,3.0,1.0,0
-Haecker Paule,BIH,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Haesecke Joel,BIH,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Hafez Bassil,BIH,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
-Hafizovic Amira,BIH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Haga Celine,BIH,2.0,7.0,0.0,0.0,3.0,1.0,0.0,0
-Hagar Jim,BIH,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Hagen Dave,BIH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Hadzovic Damir,BOS,0.0,0.0,0.0,7.0,1.0,3.0,1.0,0
+Haecker Paule,BOS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Haesecke Joel,BOS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Hafez Bassil,BOS,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
+Hafizovic Amira,BOS,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Haga Celine,BOS,2.0,7.0,0.0,0.0,3.0,1.0,0.0,0
+Hagar Jim,BOS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Hagen Dave,BOS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Hager Jake,USA,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0
 Hagerty William,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Hagge Matt,USA,6.0,6.0,0.0,3.0,1.0,3.0,4.0,0
@@ -13086,11 +13086,11 @@ Julkunen Chris,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Juma Mohamed,USA,8.0,2.0,0.0,8.0,0.0,0.0,1.0,0
 Jumabek Aktilek,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Jumeau Luke,NZL,0.0,0.0,0.0,5.0,0.0,4.0,2.0,0
-Jun Erko,BIH,3.0,1.0,0.0,3.0,1.0,0.0,0.0,0
-Jun Han Guk,BIH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Jun Seong Yeop,BIH,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Jun Yang Chen,BIH,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Jung Bu-Kyung,BIH,0.0,4.0,0.0,0.0,2.0,0.0,0.0,0
+Jun Erko,BOS,3.0,1.0,0.0,3.0,1.0,0.0,0.0,0
+Jun Han Guk,BOS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Jun Seong Yeop,BOS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Jun Yang Chen,BOS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Jung Bu-Kyung,BOS,0.0,4.0,0.0,0.0,2.0,0.0,0.0,0
 Jung Chan Sung,KOR,0.0,0.0,0.0,6.0,3.0,8.0,0.0,0
 Jung Chul Hyun,KOR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Jung Da-Un,KOR,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0
@@ -14728,8 +14728,8 @@ Large Mike,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lari Zach,FRA,2.0,2.0,0.0,1.0,1.0,1.0,0.0,0
 Larisch Stefan,GER,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0
 Larkin Chris,GER,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Larkin Declan,NIR,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Larkin Eric,NIR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Larkin Declan,NGR,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
+Larkin Eric,NGR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Larkin Lorenz,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Larock Joseph,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Laroco Brandon,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
@@ -15792,7 +15792,7 @@ Macedo Cris Macfer Ferreira,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Macedo Ederson,USA,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0
 Macedo Rafael,BRA,4.0,2.0,0.0,0.0,1.0,2.0,0.0,0
 Macedo Thiago,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Macedo Veronica,VEN,6.0,4.0,1.0,1.0,1.0,2.0,1.0,0
+Macedo Veronica,VEZ,6.0,4.0,1.0,1.0,1.0,2.0,1.0,0
 Macek Filip,CZE,3.0,4.0,0.0,1.0,1.0,1.0,3.0,0
 Macera Marco,CZE,1.0,2.0,0.0,0.0,2.0,1.0,0.0,0
 MacFarlane Clayton,USA,4.0,1.0,0.0,1.0,1.0,2.0,0.0,0
@@ -15809,9 +15809,9 @@ Machado Gustavo,BRA,5.0,7.0,0.0,0.0,3.0,1.0,1.0,0
 Machado Hitalo,BRA,1.0,2.0,0.0,0.0,2.0,1.0,0.0,0
 Machado Jean Jacques,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Machado Mauricio,BRA,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0
-Machado Nestor,URU,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Machado Nicleide,URU,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Machado Paulo,URU,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Machado Nestor,RUS,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
+Machado Nicleide,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Machado Paulo,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Machado Rafael Fagundes,USA,0.0,4.0,0.0,0.0,0.0,0.0,3.0,0
 Machado Shawn,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Machado Sydney,USA,1.0,3.0,0.0,0.0,2.0,0.0,0.0,0
@@ -15857,7 +15857,7 @@ Mackin Jordan,USA,0.0,5.0,0.0,0.0,1.0,0.0,4.0,0
 Mackinnon Jamie,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Mackles Jonathan,USA,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0
 Mackowiak Jedrzej,POL,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
-Maclean Ali,NIR,2.0,5.0,0.0,0.0,1.0,1.0,3.0,0
+Maclean Ali,NGR,2.0,5.0,0.0,0.0,1.0,1.0,3.0,0
 MacLean Craig,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Macleod Ross,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Macphearson John,CAN,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
@@ -16836,15 +16836,15 @@ Mboge Nesje Gabriel,POL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 McAdams Paul,POL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 McAfee David,POL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 McAfee Scott,USA,0.0,5.0,0.0,0.0,0.0,0.0,3.0,0
-McAleenan Declan,NIR,7.0,4.0,1.0,3.0,0.0,3.0,2.0,0
-McAleese Ian,NIR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+McAleenan Declan,NGR,7.0,4.0,1.0,3.0,0.0,3.0,2.0,0
+McAleese Ian,NGR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 McAllister Caleb,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 McAlpine Craig,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 McAnachy Matt,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 McAnally Rocky,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 McAndrews Bobby,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-McAuley Eugene,NIR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-McAvoy Amber,NIR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+McAuley Eugene,NGR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+McAvoy Amber,NGR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 McBain Paull,SCT,5.0,2.0,0.0,2.0,0.0,1.0,2.0,0
 McBride Michael,USA,8.0,3.0,0.0,0.0,1.0,8.0,0.0,0
 McBride Rusty,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -16901,8 +16901,8 @@ McCormack Danni,IRL,5.0,0.0,0.0,1.0,0.0,1.0,0.0,0
 McCormick Mike,IRL,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 McCorriston Taylor,USA,8.0,7.0,0.0,1.0,3.0,5.0,1.0,0
 McCottrell Quinton,USA,0.0,0.0,0.0,0.0,3.0,0.0,6.0,0
-McCourt Leah,NIR,6.0,1.0,0.0,1.0,1.0,2.0,0.0,0
-McCovey Romeo,NIR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+McCourt Leah,NGR,6.0,1.0,0.0,1.0,1.0,2.0,0.0,0
+McCovey Romeo,NGR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 McCowan Sir Gregory,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 McCowin A.T.,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 McCown Jay,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -17023,7 +17023,7 @@ Mckean John,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 McKee A.J.,USA,0.0,0.0,0.0,6.0,0.0,7.0,0.0,1
 McKee Antonio,USA,0.0,0.0,0.0,4.0,2.0,5.0,1.0,0
 McKee Colin,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-McKee Rhys,NIR,0.0,0.0,0.0,8.0,2.0,3.0,0.0,0
+McKee Rhys,NGR,0.0,0.0,0.0,8.0,2.0,3.0,0.0,0
 McKenna Cory,WAL,6.0,1.0,0.0,2.0,0.0,1.0,0.0,0
 McKenna Tom,USA,7.0,4.0,0.0,0.0,3.0,6.0,1.0,0
 McKenna Wendy,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -17103,9 +17103,9 @@ McTaggart Layne,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 McTorry Charles,CAN,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 McVea Bryan,CAN,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 McVeigh Glenn,CAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-McVeigh Paul,NIR,2.0,3.0,0.0,0.0,1.0,2.0,0.0,0
-McVitie Bobby,NIR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-McVittie Bobby,NIR,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0
+McVeigh Paul,NGR,2.0,3.0,0.0,0.0,1.0,2.0,0.0,0
+McVitie Bobby,NGR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+McVittie Bobby,NGR,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0
 McWilliams Daniel,USA,0.0,0.0,0.0,1.0,1.0,2.0,7.0,0
 Mdlalose Baldwin,USA,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0
 Meacham Maddie,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -17903,7 +17903,7 @@ Montero Suzie,ESP,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Monterroso Mefi,ESP,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Montes Abigail,MEX,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Montes Adriel,MEX,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Montes Alberto,VEN,4.0,0.0,0.0,0.0,0.0,2.0,0.0,0
+Montes Alberto,VEZ,4.0,0.0,0.0,0.0,0.0,2.0,0.0,0
 Montes Igor,GER,0.0,6.0,0.0,0.0,2.0,0.0,3.0,0
 Montevgini Edwin,GER,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Montgomery Drew,GER,1.0,4.0,0.0,0.0,4.0,1.0,0.0,0
@@ -17914,9 +17914,9 @@ Montgomery Steve,USA,8.0,4.0,0.0,5.0,1.0,2.0,1.0,0
 Montgomery Terry,USA,5.0,0.0,0.0,1.0,0.0,3.0,0.0,0
 Montgomery Ty,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Montibeller Peter,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Montiel Robert,VEN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Montiel Samuel,VEN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Montilla Ernesto,VEN,1.0,4.0,0.0,0.0,1.0,0.0,3.0,0
+Montiel Robert,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Montiel Samuel,VEZ,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Montilla Ernesto,VEZ,1.0,4.0,0.0,0.0,1.0,0.0,3.0,0
 Montini de Lima Raphael,BRA,6.0,5.0,0.0,1.0,3.0,4.0,2.0,0
 Montouro Ribeiro Rafael,BRA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Montoya Dominic,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -17965,9 +17965,9 @@ Moore Homer,IRL,1.0,4.0,1.0,0.0,1.0,0.0,1.0,0
 Moore John,IRL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Moore Jordan,IRL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Moore Justin,ENG,0.0,0.0,0.0,6.0,2.0,4.0,4.0,0
-Moore Karl,NIR,9.0,2.0,0.0,2.0,1.0,4.0,1.0,0
-Moore Kevin,NIR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Moore Melissa,NIR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Moore Karl,NGR,9.0,2.0,0.0,2.0,1.0,4.0,1.0,0
+Moore Kevin,NGR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Moore Melissa,NGR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Moore Nate,USA,2.0,3.0,0.0,2.0,1.0,0.0,1.0,0
 Moore Paddy,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Moore Paul,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -17976,7 +17976,7 @@ Moore Rodney,ENG,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0
 Moore Sekou,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Moore Shane,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Moore Shaquan,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Moore Steven,NIR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Moore Steven,NGR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Moore Taylor,USA,0.0,0.0,0.0,6.0,1.0,1.0,0.0,0
 Moore Tim,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Moore Todd,USA,0.0,0.0,0.0,9.0,2.0,1.0,2.0,0
@@ -18028,8 +18028,8 @@ Morales Michael,NCA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Morales Miguel,NCA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Morales Mike,NCA,1.0,4.0,0.0,1.0,3.0,0.0,1.0,0
 Morales Octavio,NCA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Morales Omar,VEN,0.0,0.0,0.0,2.0,0.0,5.0,1.0,0
-Morales Ray,VEN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Morales Omar,VEZ,0.0,0.0,0.0,2.0,0.0,5.0,1.0,0
+Morales Ray,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Morales Richard,PHI,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Morales Rudy,USA,3.0,4.0,0.0,1.0,0.0,0.0,1.0,0
 Morales Tommy,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -18305,19 +18305,19 @@ Mukhamedshin Sergey,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Mukhidinov Salim,TJK,7.0,5.0,0.0,1.0,1.0,3.0,2.0,0
 Mukulu Bruno Belabela,TJK,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Mulabitinovic Fazlo,TJK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Mulabitinovic Irfan,BIH,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Mulas Giovanni,BIH,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Mulder Jamario,BIH,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0
-Mulder Peter,BIH,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Muldoon Jason,BIH,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Muldrow Steve,BIH,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Mulabitinovic Irfan,BOS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Mulas Giovanni,BOS,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Mulder Jamario,BOS,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0
+Mulder Peter,BOS,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
+Muldoon Jason,BOS,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
+Muldrow Steve,BOS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Mulgrew Scott,SCT,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Mulhall Kevin,SCT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Mulhern Quinn,USA,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0
 Mulheron James,ENG,0.0,0.0,0.0,6.0,2.0,0.0,0.0,0
 Mulholland Ciaran,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Mulholland Conor,NIR,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
-Mulholland Merv,NIR,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
+Mulholland Conor,NGR,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
+Mulholland Merv,NGR,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Mullahy Maryanne,AUS,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Mullarkey Jamie,AUS,0.0,0.0,0.0,9.0,2.0,3.0,0.0,0
 Mullen Arthur,AUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -18762,7 +18762,7 @@ Nazarov Firdavs,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Nazaryan Artak,UKR,0.0,5.0,0.0,0.0,4.0,0.0,0.0,0
 Nazhav-Zade Talekh,UKR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Nazokatov Yusuf,UKR,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Nchukwi Tafon,CMR,6.0,1.0,0.0,4.0,0.0,0.0,0.0,0
+Nchukwi Tafon,CAM,6.0,1.0,0.0,4.0,0.0,0.0,0.0,0
 Neace Dustin,USA,2.0,6.0,0.0,0.0,0.0,2.0,6.0,0
 Neace Joe,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Neal Geoff,USA,0.0,0.0,0.0,8.0,1.0,2.0,1.0,0
@@ -18813,10 +18813,10 @@ Nelson Chad,USA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Nelson Corey,AUS,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0
 Nelson Ed,AUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Nelson Gene,AUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Nelson Gunnar,ISL,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0
-Nelson Jerry,ISL,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Nelson John,ISL,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
-Nelson Keyes,ISL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Nelson Gunnar,ISR,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0
+Nelson Jerry,ISR,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Nelson John,ISR,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
+Nelson Keyes,ISR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Nelson Kyle,CAN,0.0,0.0,0.0,5.0,2.0,4.0,1.0,0
 Nelson Lamont,CAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Nelson Lenny,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -18926,10 +18926,10 @@ Ney Caboco,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Nezu Yuta,USA,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ng Eddie,HKG,7.0,4.0,0.0,3.0,2.0,4.0,1.0,0
 Ngaheu Charlie,HKG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ngalani Alain,CMR,4.0,6.0,0.0,3.0,5.0,0.0,1.0,0
-Ngan Nathan,CMR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Ngannou Francis,CMR,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0
-Ngeleka Luc,CMR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Ngalani Alain,CAM,4.0,6.0,0.0,3.0,5.0,0.0,1.0,0
+Ngan Nathan,CAM,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Ngannou Francis,CAM,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0
+Ngeleka Luc,CAM,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ngongo Martin,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Nguen Tuan,BUL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Nguyen Andy,BUL,5.0,6.0,0.0,3.0,1.0,1.0,0.0,0
@@ -19257,10 +19257,10 @@ Nut Paj,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Nutt Charles,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Nutting Jesse,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Nuzzo David,USA,9.0,2.0,0.0,4.0,1.0,2.0,0.0,0
-Nya Donald Njatah,CMR,0.0,4.0,0.0,0.0,1.0,0.0,3.0,0
-Nybakken Garret,CMR,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Nye Joe,CMR,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Nyisztyor Timea,CMR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Nya Donald Njatah,CAM,0.0,4.0,0.0,0.0,1.0,0.0,3.0,0
+Nybakken Garret,CAM,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
+Nye Joe,CAM,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
+Nyisztyor Timea,CAM,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Nystrom Robert,SWE,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Nyyssonen Mikael,FIN,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Nzechukwu Kennedy,NGR,9.0,2.0,0.0,6.0,1.0,0.0,1.0,0
@@ -20090,7 +20090,7 @@ Park Junyong,KOR,0.0,0.0,0.0,5.0,1.0,3.0,2.0,0
 Park So Young,SKO,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Park Won Sik,SKO,0.0,5.0,0.0,0.0,3.0,0.0,1.0,0
 Parkaiphet Saengchot,SKO,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Parke Norman,NIR,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0
+Parke Norman,NGR,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0
 Parker Andrew,USA,3.0,2.0,0.0,1.0,1.0,2.0,1.0,0
 Parker Art,USA,0.0,4.0,0.0,0.0,0.0,0.0,4.0,0
 Parker Arthur,USA,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0
@@ -20309,11 +20309,11 @@ Peltokangas Tuomas,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Pelton Jeffery,USA,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Peltonen Marcus,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Peltz Jeff,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Peluffo Cossio Rafael Raul,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Pelupessy Mingoes,URU,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Pemberton Brandon,URU,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Pena Carlos,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Pena Dominic,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Peluffo Cossio Rafael Raul,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Pelupessy Mingoes,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Pemberton Brandon,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Pena Carlos,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Pena Dominic,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Pena Luis,ITA,9.0,3.0,0.0,2.0,0.0,4.0,1.0,0
 Pena Mateo,ITA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Pena Reggie,ITA,3.0,3.0,0.0,1.0,1.0,1.0,1.0,0
@@ -20789,7 +20789,7 @@ Pires Aline,ITA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Pirev Alexander Sasha,ITA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Piri Piri,ITA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Piriz Chris,ITA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Piriz Xiomara,URU,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Piriz Xiomara,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Pirrello Gaetano,BEL,0.0,0.0,0.0,0.0,0.0,3.0,4.0,0
 Pirtea Aurel,BEL,2.0,6.0,0.0,0.0,0.0,2.0,2.0,0
 Pirulito Marcelo,BEL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -21713,8 +21713,8 @@ Rey Claudia,BRA,6.0,0.0,0.0,4.0,0.0,2.0,0.0,0
 Rey Ruben,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reyes Alex,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reyes Anthony,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Reyes Boris,VEN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Reyes Christian,VEN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Reyes Boris,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Reyes Christian,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Reyes Diana,MEX,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0
 Reyes Dominick,USA,0.0,0.0,0.0,7.0,2.0,2.0,0.0,0
 Reyes Javier,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -21952,13 +21952,13 @@ Rivas Gabe,USA,0.0,6.0,0.0,0.0,5.0,0.0,1.0,0
 Rivas Jesus,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rivas Juan,USA,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0
 Rivas Mayerlin,USA,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rivas Ranfi,VEN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Rivas Jr. Jose,VEN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rivelis Pamella,VEN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-River Christina,VEN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rivera Adam,VEN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rivera Carlos,VEN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Rivera Christian,VEN,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
+Rivas Ranfi,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Rivas Jr. Jose,VEZ,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Rivelis Pamella,VEZ,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+River Christina,VEZ,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Rivera Adam,VEZ,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Rivera Carlos,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Rivera Christian,VEZ,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Rivera Dante,USA,0.0,0.0,0.0,3.0,1.0,8.0,1.0,0
 Rivera David,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rivera Dominic,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
@@ -22293,7 +22293,7 @@ Rodriguez Sam,USA,0.0,4.0,0.0,0.0,1.0,0.0,3.0,0
 Rodriguez Steven,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rodriguez Tony,CRC,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Rodriguez Ulfrano,CRC,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rodriguez Victor,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Rodriguez Victor,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Violeta,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Yair,MEX,0.0,0.0,0.0,5.0,2.0,3.0,0.0,0
 Rodriguez Gutierrez Rafael,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -24395,8 +24395,8 @@ Skoch Stephen,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Skoglund Chris,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Skold Simon,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Skondric Ilja,SVK,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Skopljak Ivo,BIH,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Skorick Joseph,BIH,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Skopljak Ivo,BOS,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
+Skorick Joseph,BOS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Skorzik Christian,GER,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Skouloudis Giorgos,GER,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Skouras Rafael,GRE,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -24527,8 +24527,8 @@ Smith Max,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Smith Mikael,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Smith Mike,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Smith Nate,USA,6.0,2.0,0.0,1.0,0.0,3.0,1.0,0
-Smith Niall,NIR,1.0,5.0,0.0,1.0,2.0,0.0,1.0,0
-Smith Nicole,NIR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Smith Niall,NGR,1.0,5.0,0.0,1.0,2.0,0.0,1.0,0
+Smith Nicole,NGR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Smith Nikki,USA,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0
 Smith Orlean,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Smith Orleans,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -24649,17 +24649,17 @@ Sokolis Nikos,USA,1.0,5.0,0.0,0.0,2.0,1.0,2.0,0
 Sokolov Sergei,UKR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Sokolowski Tanek,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Sokonater Trevor,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Sokoudjou Rameau Thierry,CMR,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0
-Sokov Dmitry,CMR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Sokulski Konrad,CMR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Sola Jonathan,CMR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Solano Rodriguez Alejandro,CMR,3.0,4.0,0.0,1.0,0.0,2.0,3.0,0
+Sokoudjou Rameau Thierry,CAM,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0
+Sokov Dmitry,CAM,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Sokulski Konrad,CAM,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Sola Jonathan,CAM,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Solano Rodriguez Alejandro,CAM,3.0,4.0,0.0,1.0,0.0,2.0,3.0,0
 Solarin Kashiff,USA,0.0,8.0,0.0,0.0,1.0,0.0,5.0,0
 Solc Martin,USA,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Soldado Odilon,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Soldado Rafael,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Soldatov Konstantin,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Soldi Roberto,BIH,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0
+Soldi Roberto,BOS,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Solecki Joe,USA,0.0,0.0,0.0,1.0,1.0,7.0,0.0,0
 Solek Todd,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Soler Dimitri,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -25160,10 +25160,10 @@ Stoiti Adrian,BUL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Stojadinovic Lazar,BUL,0.0,0.0,0.0,3.0,3.0,6.0,2.0,0
 Stojadinovic Milan,BUL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Stojanov Gjore,BUL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Stojnic Denis,BIH,9.0,2.0,0.0,3.0,1.0,4.0,1.0,0
-Stokas Adrianos,BIH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Stokes Crystal,BIH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Stokes Xavier,BIH,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
+Stojnic Denis,BOS,9.0,2.0,0.0,3.0,1.0,4.0,1.0,0
+Stokas Adrianos,BOS,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Stokes Crystal,BOS,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Stokes Xavier,BOS,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Stolen Nathan,USA,0.0,3.0,0.0,0.0,1.0,0.0,1.0,0
 Stoliarenko Julija,LTU,9.0,6.0,1.0,0.0,2.0,8.0,1.0,0
 Stoltzfus Dustin,USA,0.0,0.0,0.0,2.0,0.0,5.0,2.0,0
@@ -25899,7 +25899,7 @@ Terrey Brad,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Terrill Micah,USA,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0
 Terry Billy,USA,0.0,6.0,0.0,0.0,3.0,0.0,3.0,0
 Terry Darion,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Terry Edir,VEN,1.0,3.0,0.0,1.0,0.0,0.0,0.0,0
+Terry Edir,VEZ,1.0,3.0,0.0,1.0,0.0,0.0,0.0,0
 Terry James,USA,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0
 Terry Jeff,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Terry Kendrick,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -26383,8 +26383,8 @@ Trindade Fabricio Guimaraes,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Trindade Guilherme,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Trindade Helry,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Trindade Jaison,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Trindade Jose,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Trindade Samuel,URU,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
+Trindade Jose,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Trindade Samuel,RUS,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Trindade Vinicius,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Trindade da Conceicao Filonilda,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Trinh Mike,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -26775,11 +26775,11 @@ Vakhaev Umar,RUS,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Vakhitov Algiz,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Vakhitov Baysangur,RUS,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0
 Vaknin Eliran,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Val Maria Isabel,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Valadares Glauber,URU,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Valadez Armando,URU,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0
-Valadez Joe,URU,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0
-Valamaa Juho,URU,3.0,2.0,0.0,1.0,2.0,2.0,0.0,0
+Val Maria Isabel,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Valadares Glauber,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Valadez Armando,RUS,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0
+Valadez Joe,RUS,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0
+Valamaa Juho,RUS,3.0,2.0,0.0,1.0,2.0,2.0,0.0,0
 Valancius Vaidas,LTU,0.0,4.0,0.0,0.0,0.0,0.0,3.0,0
 Valavicius Egidijus,LTU,0.0,0.0,0.0,0.0,0.0,6.0,5.0,0
 Valda Marcus,LTU,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -26861,17 +26861,17 @@ van de Haar Tarif,NED,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Van de Poll Saul,NED,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Van Den Heuvel Kenny,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Van den Hooven Dina,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-van den Steen Erwin,HOL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Van Der Merwe Rhodie,HOL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Van der Veen Dave,HOL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-van der Ven Candied,HOL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Van der Wearden Sjors,HOL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Van Der Wel Nadia,HOL,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
+van den Steen Erwin,NED,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Van Der Merwe Rhodie,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Van der Veen Dave,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+van der Ven Candied,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Van der Wearden Sjors,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Van Der Wel Nadia,NED,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Van Dijck Christophe,BEL,2.0,5.0,0.0,1.0,3.0,0.0,0.0,0
 Van Duin Jo,BEL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-van Esdonk Rob,HOL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Van Geystelen Bert,HOL,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
-van Heerden Danie,HOL,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
+van Esdonk Rob,NED,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Van Geystelen Bert,NED,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
+van Heerden Danie,NED,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 van Helvoirt Duane,NED,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0
 Van Horn Jimmy,USA,0.0,5.0,0.0,0.0,3.0,0.0,2.0,0
 van Houtum Megan,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -27342,7 +27342,7 @@ Voitenko Alexander,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Voitik Joe,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Voitov Dmitry,BLR,2.0,4.0,0.0,0.0,0.0,0.0,4.0,0
 Vojnovic Bojan,BLR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Vokic Nikolina,BIH,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
+Vokic Nikolina,BOS,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Voldman Noam,ISR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Volin Kyle,ISR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Volinkin Vladimir,UKR,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -27371,19 +27371,19 @@ Vranceanu Ion,ROM,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0
 Vrbanovic Jerry,ROM,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0
 Vrbic Milan,ROM,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Vrbinc Primoz,ROM,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Vrij Dick,HOL,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Vu Thanh,HOL,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Vuapi Christian,HOL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Vucenic Jordan,HOL,8.0,1.0,0.0,2.0,0.0,1.0,0.0,0
-Vucick Bill,HOL,1.0,2.0,0.0,0.0,2.0,1.0,0.0,0
-Vuckovic Vladimir,HOL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Vuittonet Kino,HOL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Vujic Filip,HOL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Vujnovic Stjepan,HOL,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Vukic Slobodan,HOL,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0
-Vuori Vesa,HOL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Vusalov Mamed,HOL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Vyatokha Evgeniy,HOL,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0
+Vrij Dick,NED,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Vu Thanh,NED,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
+Vuapi Christian,NED,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Vucenic Jordan,NED,8.0,1.0,0.0,2.0,0.0,1.0,0.0,0
+Vucick Bill,NED,1.0,2.0,0.0,0.0,2.0,1.0,0.0,0
+Vuckovic Vladimir,NED,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Vuittonet Kino,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Vujic Filip,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Vujnovic Stjepan,NED,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
+Vukic Slobodan,NED,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0
+Vuori Vesa,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Vusalov Mamed,NED,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Vyatokha Evgeniy,NED,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0
 Vyazigin Anton,RUS,0.0,0.0,0.0,7.0,1.0,1.0,1.0,0
 Vygovsky Denis,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Waage Tim,SWE,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -28588,7 +28588,7 @@ You Ga Bu Huo,JPN,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0
 Youmbi Emerick,JPN,1.0,4.0,0.0,1.0,0.0,0.0,2.0,0
 Younes Malihe,JPN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Young Aaron,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Young Andy,NIR,0.0,0.0,0.0,2.0,2.0,3.0,1.0,0
+Young Andy,NGR,0.0,0.0,0.0,2.0,2.0,3.0,1.0,0
 Young Artenas,USA,0.0,0.0,0.0,4.0,2.0,0.0,2.0,0
 Young B.J.,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Young Chris,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -28730,10 +28730,10 @@ Zaripov Firdavs,UZB,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Zarmanbetov Bagaudin,UZB,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0
 Zarmanbetov Murad,RUS,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Zaromskis Marius,LTU,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Zas Agustin,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Zasa TJ,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Zatarain Fernando,URU,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Zathureczky Zsolt,URU,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
+Zas Agustin,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Zasa TJ,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Zatarain Fernando,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+Zathureczky Zsolt,RUS,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Zatuchnyy Rostislav,GER,0.0,3.0,0.0,0.0,1.0,0.0,1.0,0
 Zauers Igor,GER,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Zavgorodniy Evgeniy,GER,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -28917,7 +28917,7 @@ Zuniga Alex,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Zuniga Allan,CRC,0.0,0.0,0.0,3.0,0.0,4.0,0.0,0
 Zuniga David,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Zuniga George,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Zuniga Jhan,VEN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
+Zuniga Jhan,VEZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Zunner Alan,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Zvijer Stefan,SER,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Zwicker Elsie,SER,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
