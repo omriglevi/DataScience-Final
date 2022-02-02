@@ -1,5 +1,5 @@
 Full_Name,Country,Wins,Loses,Decision,Wins_By_KO,Loses_By_KO,Wins_By_Submission,Loses_By_Submission,Champion
-Rabadanov Gadzhi,RUS,,,0.0,7.0,2.0,4.0,1.0,0
+Rabadanov Gadzhi,RUS,0.0,0.0,0.0,7.0,2.0,4.0,1.0,0
 Rabadon Jesus,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rabatel Joffrey,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rabaud Julian,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -8,7 +8,7 @@ Raborn Jimmy,SWE,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rabugento Fabiano,SWE,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rachek Nikolay,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rachid Hicham,RUS,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Racic Antun,CRO,,,0.0,0.0,1.0,0.0,0.0,0
+Racic Antun,CRO,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0
 Racine Mark,CRO,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Rackliff Victor,CRO,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Racz Egon,CRO,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
@@ -21,7 +21,7 @@ Radael Ademir,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Radakovic Marko,BRA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Radanzzo Joey,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Radcliff Aaron,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Radcliffe Jason,ENG,,,0.0,0.0,0.0,4.0,3.0,0
+Radcliffe Jason,ENG,0.0,0.0,0.0,0.0,0.0,4.0,3.0,0
 Radcliffe Tim,ENG,2.0,2.0,0.0,0.0,1.0,2.0,0.0,0
 Rader Charlie,USA,1.0,4.0,0.0,1.0,1.0,0.0,3.0,0
 Rader Chaylen,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -39,8 +39,8 @@ Radleim Erik,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Radley Tim,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Radman Anton,CRO,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0
 Radnov Mike,CRO,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0
-Radomski Robert,POL,,,0.0,1.0,1.0,5.0,1.0,0
-Rados Steve,POL,,,0.0,0.0,0.0,0.0,0.0,0
+Radomski Robert,POL,0.0,0.0,0.0,1.0,1.0,5.0,1.0,0
+Rados Steve,POL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Radosavljevic Aleksandar,SER,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Radosavljevic Branimir,SER,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Radtka Nick,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
@@ -48,7 +48,7 @@ Radtke Charlie,USA,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0
 Radu Maxim,ITA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Raducanu Ionut,ITA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Radzhabov Kurban,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Radzhabov Loik,TJK,,,0.0,7.0,0.0,4.0,0.0,0
+Radzhabov Loik,TJK,0.0,0.0,0.0,7.0,0.0,4.0,0.0,0
 Radzhabov Magomed,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Radziszewski Mariusz,POL,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0
 Radzuan Jihin,POL,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -65,7 +65,7 @@ Rafikov Shamil,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rafiq Brayan,BRA,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0
 Rafols Jessie,BRA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Ragimov Agil,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Ragimov Tural,AZE,,,0.0,4.0,4.0,5.0,1.0,0
+Ragimov Tural,AZE,0.0,0.0,0.0,4.0,4.0,5.0,1.0,0
 Ragozin Mikhail,RUS,9.0,2.0,0.0,5.0,1.0,3.0,0.0,0
 Ragusa Sebastiano,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rahael Patrick,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -85,14 +85,14 @@ Raimundo Silva Kleber,BRA,2.0,5.0,0.0,2.0,2.0,0.0,1.0,0
 Rain Kaiyana,BRA,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0
 Raines Donny,BRA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Raines Matt,BRA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
-Rainey Ricky,USA,,,0.0,7.0,4.0,1.0,0.0,0
+Rainey Ricky,USA,0.0,0.0,0.0,7.0,4.0,1.0,0.0,0
 Raio John,USA,1.0,3.0,0.0,0.0,3.0,1.0,0.0,0
-Raisov Yusuf,RUS,,,0.0,1.0,0.0,8.0,0.0,0
+Raisov Yusuf,RUS,0.0,0.0,0.0,1.0,0.0,8.0,0.0,0
 Raj Pablo,RUS,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rajacic Aleksandar,RUS,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0
 Rajewski Lukasz,RUS,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0
 Rajewski Robert,POL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rajewski Sebastian,POL,,,0.0,4.0,3.0,0.0,1.0,0
+Rajewski Sebastian,POL,0.0,0.0,0.0,4.0,3.0,0.0,1.0,0
 Rajman Aaron,POL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Raju Rahul,POL,7.0,5.0,0.0,2.0,2.0,4.0,1.0,0
 Rakas Aleksandar,POL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -103,9 +103,9 @@ Rakhmatillaev Mustafa,UZB,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rakhmatulloyev Umed,UZB,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rakhmonkulov Ruslan,UZB,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rakhmonov Osimkhon,UZB,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rakhmonov Shavkat,KAZ,,,0.0,7.0,0.0,7.0,0.0,0
+Rakhmonov Shavkat,KAZ,0.0,0.0,0.0,7.0,0.0,7.0,0.0,0
 Rakhmonov Valisher,KAZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rakic Aleksandar,AUT,,,0.0,9.0,0.0,1.0,1.0,0
+Rakic Aleksandar,AUT,0.0,0.0,0.0,9.0,0.0,1.0,1.0,0
 Rakoczy Jessica,CAN,2.0,5.0,0.0,1.0,2.0,0.0,1.0,0
 Rakowski Piotr,CAN,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
 Rall Shawn,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -113,14 +113,14 @@ Ralph Paula,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ralphaela Thais,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ralston Ricco,USA,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Ram Chris,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rama Smealinho,ALB,,,0.0,7.0,3.0,3.0,1.0,0
+Rama Smealinho,ALB,0.0,0.0,0.0,7.0,3.0,3.0,1.0,0
 Ramage Jeremy,ALB,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ramage Josh,ENG,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0
 Ramalho Josenildo,ENG,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Ramani Liridon,ENG,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Ramarho Josenildo,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ramazanov Gadzhi,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ramazanov Murad,ENG,,,0.0,4.0,0.0,3.0,0.0,0
+Ramazanov Murad,ENG,0.0,0.0,0.0,4.0,0.0,3.0,0.0,0
 Ramazanov Nizamuddin,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ramazanov Ramazan,ENG,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Ramberg Cameron,ENG,1.0,2.0,0.0,1.0,0.0,0.0,1.0,0
@@ -135,7 +135,7 @@ Ramirez Amador,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ramirez Andrew,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ramirez Antonio,BRA,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Ramirez Art,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Ramirez Ben,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Ramirez Ben,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ramirez Christopher,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ramirez Danny,USA,3.0,2.0,0.0,2.0,1.0,0.0,0.0,0
 Ramirez David,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -174,7 +174,7 @@ Ramos Alexis,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ramos Carla,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ramos Chris,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Ramos Dante,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Ramos Davi,BRA,,,0.0,1.0,0.0,7.0,0.0,0
+Ramos Davi,BRA,0.0,0.0,0.0,1.0,0.0,7.0,0.0,0
 Ramos Edson,BRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Ramos Elder,BRA,1.0,4.0,0.0,1.0,2.0,0.0,1.0,0
 Ramos Eliezer,BRA,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0
@@ -189,23 +189,23 @@ Ramos Marcelo Barbosa,BRA,1.0,2.0,0.0,1.0,0.0,0.0,1.0,0
 Ramos Mario,BRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Ramos Matheus,BRA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Ramos Paul,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ramos Rafael,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Ramos Rafael,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ramos Raymond,USA,5.0,4.0,0.0,3.0,0.0,1.0,1.0,0
-Ramos Ricardo,BRA,,,0.0,3.0,2.0,7.0,1.0,0
+Ramos Ricardo,BRA,0.0,0.0,0.0,3.0,2.0,7.0,1.0,0
 Ramos Vernon,PAN,3.0,1.0,0.0,1.0,1.0,2.0,0.0,0
 Ramos Vydalia,MEX,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ramos Windson,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ramos da Silva Jr. Antonio Jose,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ramos Gudari Arkaitz,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Ramsby Andreas,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Ramsby Andreas,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ramsey Eric,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ramshaw Jordan,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ramírez Iván,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Ramírez Iván,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rana Kamon,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ranchev Boyko,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Randall CJ,USA,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0
 Randall DJ,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Randleman Kevin,USA,,,0.0,5.0,4.0,4.0,8.0,0
+Randleman Kevin,USA,0.0,0.0,0.0,5.0,4.0,4.0,8.0,0
 Randolph Danny,ENG,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
 Randolph George,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Randolph Rick,ENG,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
@@ -217,7 +217,7 @@ Rangi Sumit,IND,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Ranieri de Faria Rodrigo,IND,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Ranillo Glen,IND,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ransbottom Luke,IND,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Ransom Darryl,IND,,,0.0,0.0,0.0,0.0,0.0,0
+Ransom Darryl,IND,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Raou Raou,IND,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rapi Donat,CRO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Raposa Mark,CRO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -227,12 +227,12 @@ Rasal Dipesh,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rasberry Josh,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rascon Ethien,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rashid Aziz,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rasmussen Bruce,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rasmussen Bruce,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rasmussen Jake,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rasmussen Tommy,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rasouli David,USA,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rasouli Hussain,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Rassohyna Alyona,UKR,,,0.0,0.0,0.0,0.0,0.0,0
+Rassohyna Alyona,UKR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rastegar Chaba,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rasulov Ishkan,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rasulov Salimgerey,RUS,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
@@ -245,7 +245,7 @@ Rau Dan,RUS,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Rauch Sam,RUS,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Rauchbach Lars,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Raught Kenny,RUS,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
-Rave Josh,USA,,,0.0,5.0,2.0,9.0,8.0,0
+Rave Josh,USA,0.0,0.0,0.0,5.0,2.0,9.0,8.0,0
 Ravello Oscar,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ravenscroft Michael,USA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Rawat Krishan,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
@@ -253,9 +253,9 @@ Rawiri Beau,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Rawlings Bec,AUS,8.0,9.0,0.0,1.0,2.0,4.0,1.0,0
 Ray Courtney,AUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ray Gideon,AUS,0.0,9.0,0.0,0.0,3.0,0.0,1.0,0
-Ray Joe,USA,,,0.0,8.0,0.0,4.0,1.0,0
+Ray Joe,USA,0.0,0.0,0.0,8.0,0.0,4.0,1.0,0
 Ray Larry,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Ray Stevie,SCT,,,0.0,6.0,2.0,8.0,4.0,0
+Ray Stevie,SCT,0.0,0.0,0.0,6.0,2.0,8.0,4.0,0
 Ray Tyler,SCT,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0
 Rayford Kelvin,SCT,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Rayment Randall,SCT,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -263,7 +263,7 @@ Raymond Daniels,SCT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Raymond Keenan,USA,2.0,5.0,0.0,0.0,3.0,1.0,2.0,0
 Rayside Kenneth,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Razafiarison Iony,FRA,4.0,3.0,0.0,0.0,0.0,2.0,0.0,0
-Razak Alhassan Abdul,GHA,,,0.0,0.0,0.0,0.0,0.0,0
+Razak Alhassan Abdul,GHA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Razmus Danielius,GHA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Razvadovskij Sergej,LTU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rea Antony,LTU,1.0,6.0,0.0,1.0,5.0,0.0,1.0,0
@@ -273,7 +273,7 @@ Reale Nick,LTU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Reardanz Bobby,USA,0.0,4.0,0.0,0.0,1.0,0.0,2.0,0
 Reasby Terrance,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rebecki Mateusz,USA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
-Rebello Greg,USA,,,0.0,0.0,0.0,2.0,2.0,0
+Rebello Greg,USA,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0
 Rebello Rafael,USA,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0
 Reber Ivan,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Reboli LJ,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
@@ -285,13 +285,13 @@ Redenbaugh Rowland,AUS,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Redfearn Kyle,AUS,8.0,6.0,0.0,5.0,3.0,2.0,1.0,0
 Redfern Philip,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Redman Fannie,SWE,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Redmond John,IRL,,,0.0,4.0,6.0,2.0,7.0,0
-Redmond Paul,IRL,,,0.0,5.0,3.0,5.0,4.0,0
+Redmond John,IRL,0.0,0.0,0.0,4.0,6.0,2.0,7.0,0
+Redmond Paul,IRL,0.0,0.0,0.0,5.0,3.0,5.0,4.0,0
 Redondo Johnathan,IRL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reece Ashley,ENG,8.0,2.0,0.0,4.0,0.0,1.0,0.0,0
 Reece Howard,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Reed Chris,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Reed Dennis,USA,,,0.0,0.0,2.0,0.0,1.0,0
+Reed Dennis,USA,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0
 Reed Donnis,USA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Reed Drew,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Reed Elise,USA,4.0,1.0,0.0,2.0,1.0,0.0,0.0,0
@@ -307,7 +307,7 @@ Reed Robert,USA,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0
 Reed Trevor,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Reed Ward Austin,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reedy Chris,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Reedy John,USA,,,0.0,3.0,3.0,5.0,3.0,0
+Reedy John,USA,0.0,0.0,0.0,3.0,3.0,5.0,3.0,0
 Rees Ben,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Rees Johnny,USA,0.0,4.0,0.0,0.0,0.0,0.0,4.0,0
 Reese Aaron,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -322,7 +322,7 @@ Reeves Glenn,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Reeves Patrick,USA,1.0,4.0,0.0,0.0,3.0,1.0,1.0,0
 Reeves Rick,USA,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Regal Tom,USA,2.0,1.0,0.0,2.0,0.0,0.0,1.0,0
-Regan Eric,USA,,,0.0,0.0,2.0,0.0,6.0,0
+Regan Eric,USA,0.0,0.0,0.0,0.0,2.0,0.0,6.0,0
 Reger Eli,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Reger Rick,USA,7.0,2.0,0.0,2.0,1.0,4.0,1.0,0
 Regier Eduardo,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -333,8 +333,8 @@ Regman Stephen,USA,9.0,5.0,0.0,7.0,1.0,1.0,2.0,0
 Rego Felipe,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rego Oswaldo,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rehm Scott,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rehman Bobby,BRA,,,0.0,0.0,0.0,0.0,0.0,0
-Reichbach Howard,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Rehman Bobby,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Reichbach Howard,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Reicher Jody Lynn,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Reid Alex,BRA,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0
 Reid Chris,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -343,14 +343,14 @@ Reid Glen,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reid Kiel,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Reid Leanne,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Reid Michael,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Reid Mike,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Reid Mike,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Reid Tobias,ENG,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Reider Skylar,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reilly Crystal,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Reimitz Sebastian,ENG,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Reinders Andre,CZE,1.0,4.0,0.0,0.0,3.0,0.0,0.0,0
 Reiner Chad,CZE,4.0,9.0,0.0,0.0,5.0,3.0,3.0,0
-Reinhardt Jason,USA,,,0.0,3.0,1.0,0.0,0.0,0
+Reinhardt Jason,USA,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0
 Reis Adailton,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Reis Biafra,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Reis Bianca,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -361,20 +361,20 @@ Reis Elton,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reis Mauricio,BRA,1.0,4.0,0.0,0.0,2.0,1.0,1.0,0
 Reis Victor,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Reis Vinicius Costa,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Reis Wilson,BRA,,,0.0,0.0,4.0,0.0,0.0,0
-Reis de Sousa Herbeth,BRA,,,0.0,2.0,0.0,0.0,0.0,0
+Reis Wilson,BRA,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0
+Reis de Sousa Herbeth,BRA,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0
 Reis Nogueira Silva Charles,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Reiswerg Justin,USA,,,0.0,2.0,0.0,7.0,4.0,0
-Reiter Ben,USA,,,0.0,7.0,1.0,2.0,1.0,0
+Reiswerg Justin,USA,0.0,0.0,0.0,2.0,0.0,7.0,4.0,0
+Reiter Ben,USA,0.0,0.0,0.0,7.0,1.0,2.0,1.0,0
 Reiter Maiky,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Rejen Bastiaan,USA,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0
 Rekson Rekson,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rela Thiago,USA,0.0,5.0,0.0,0.0,2.0,0.0,3.0,0
-Reljic Goran,CRO,,,0.0,5.0,2.0,5.0,0.0,0
+Reljic Goran,CRO,0.0,0.0,0.0,5.0,2.0,5.0,0.0,0
 Remedios Leigh,CRO,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0
 Renascer Bruno,CRO,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Renato Sol,CRO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rencountre Chance,USA,,,0.0,6.0,1.0,3.0,0.0,0
+Rencountre Chance,USA,0.0,0.0,0.0,6.0,1.0,3.0,0.0,0
 Rende Robert,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rendon Javier,CAN,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Reneau Marion,USA,9.0,8.0,1.0,5.0,1.0,3.0,0.0,0
@@ -391,18 +391,18 @@ Renta Keni,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Renting Herman,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Renty Kris,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Repalov Alexey,BRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Repanas Miguel,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Repanas Miguel,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Requeijo Daniel,BRA,1.0,4.0,0.0,0.0,2.0,1.0,1.0,0
 Resic Troy,AUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Resop Brad,AUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Restad Angela,AUS,,,0.0,0.0,0.0,0.0,0.0,0
+Restad Angela,AUS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Restrepo Miguel,USA,0.0,5.0,0.0,0.0,0.0,0.0,2.0,0
 Retic Anthony,USA,1.0,4.0,0.0,1.0,1.0,0.0,2.0,0
 Retno Wulan Dwi Ani,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rettinghouse Josh,USA,,,0.0,5.0,0.0,7.0,3.0,0
+Rettinghouse Josh,USA,0.0,0.0,0.0,5.0,0.0,7.0,3.0,0
 Reuter Collin,USA,0.0,4.0,0.0,0.0,0.0,0.0,2.0,0
 Reuvers Boy Rol,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Revel Jared,CAN,,,0.0,2.0,1.0,6.0,0.0,0
+Revel Jared,CAN,0.0,0.0,0.0,2.0,1.0,6.0,0.0,0
 Reveles Tony,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reves Aaron,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rewera Sebastian,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -416,12 +416,12 @@ Reyes Anthony,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Reyes Boris,VEN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Reyes Christian,VEN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Reyes Diana,MEX,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0
-Reyes Dominick,USA,,,0.0,7.0,2.0,2.0,0.0,0
+Reyes Dominick,USA,0.0,0.0,0.0,7.0,2.0,2.0,0.0,0
 Reyes Javier,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Reyes Jesse,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Reyes Jesse,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Reyes Joseph,PUR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reyes Josh,PUR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Reyes Kyle,GUM,,,0.0,1.0,1.0,9.0,0.0,0
+Reyes Kyle,GUM,0.0,0.0,0.0,1.0,1.0,9.0,0.0,0
 Reyes Lloyd,GUY,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Reyes Lydia,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reyes Marco Polo,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
@@ -441,11 +441,11 @@ Reyes Jr. Manny,MEX,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Reyes Rugeles Javier,COL,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Reyna Michael,COL,0.0,3.0,0.0,0.0,1.0,0.0,1.0,0
 Reyna Steve,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
-Reyna Victor,USA,,,0.0,7.0,1.0,1.0,2.0,0
+Reyna Victor,USA,0.0,0.0,0.0,7.0,1.0,1.0,2.0,0
 Reynaud Griffen,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Reynol Theodore,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Reynolds Bryant,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Reynolds Eric,USA,,,0.0,8.0,3.0,8.0,4.0,0
+Reynolds Eric,USA,0.0,0.0,0.0,8.0,3.0,8.0,4.0,0
 Reynolds Jamie,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Reynolds Marcus,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Reynolds Ted,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -462,11 +462,11 @@ Rhoden Rodney,USA,1.0,6.0,0.0,1.0,3.0,0.0,3.0,0
 Rhodes James,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rhodes Jim,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rhodes Johnny,USA,2.0,1.0,0.0,1.0,0.0,1.0,1.0,0
-Rhodes Mike,USA,,,0.0,5.0,0.0,3.0,3.0,0
+Rhodes Mike,USA,0.0,0.0,0.0,5.0,0.0,3.0,3.0,0
 Ria Lucrezia,ITA,8.0,2.0,0.0,0.0,1.0,7.0,1.0,0
 Riba Konstantin,ITA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ribansky Samuel,SVK,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Ribas Amanda,BRA,,,0.0,3.0,2.0,4.0,0.0,0
+Ribas Amanda,BRA,0.0,0.0,0.0,3.0,2.0,4.0,0.0,0
 Ribas Fernando Camoles,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ribeiro Alexandre,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ribeiro Antonio Carlos,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -493,7 +493,7 @@ Ribeiro Raphael,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ribeiro Rodrigo,BRA,0.0,6.0,0.0,0.0,3.0,0.0,2.0,0
 Ribeiro Salomao,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Ribeiro Suelen,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ribeiro Vitor,BRA,,,0.0,2.0,2.0,5.0,0.0,0
+Ribeiro Vitor,BRA,0.0,0.0,0.0,2.0,2.0,5.0,0.0,0
 Ribeiro Wagner,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ribeiro Wilber,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ribeiro Will,BRA,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -512,16 +512,16 @@ Ricardo Chaves Santos Andre,BRA,3.0,1.0,0.0,1.0,0.0,0.0,0.0,0
 Ricardo Diaz Carlos,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ricart Joe,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Riccetti Matteo,ITA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ricci Alessandro,CAN,,,0.0,5.0,1.0,0.0,0.0,0
+Ricci Alessandro,CAN,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0
 Ricci Ezequiel,CAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Ricci Mike,CAN,,,0.0,7.0,2.0,1.0,0.0,0
+Ricci Mike,CAN,0.0,0.0,0.0,7.0,2.0,1.0,0.0,0
 Ricci Tabatha,BRA,6.0,1.0,0.0,1.0,1.0,2.0,0.0,0
 Riccio Damien,BRA,0.0,4.0,0.0,0.0,2.0,0.0,1.0,0
 Riccio Matthias,BRA,1.0,2.0,0.0,0.0,2.0,1.0,0.0,0
 Rice Chris,BRA,1.0,3.0,0.0,1.0,1.0,0.0,0.0,0
 Rice Cody,BRA,0.0,5.0,0.0,0.0,0.0,0.0,5.0,0
 Rice Shane,BRA,1.0,2.0,0.0,0.0,2.0,1.0,0.0,0
-Rice Steve,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Rice Steve,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ricehouse Matt,USA,6.0,1.0,0.0,2.0,0.0,1.0,0.0,0
 Ricetti Brandon,USA,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0
 Rich Josh,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -537,7 +537,7 @@ Richards Scott,ENG,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Richards Tom,ENG,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Richardson Chris,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Richardson Daniel,AUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Richardson Jamie,ENG,,,0.0,8.0,2.0,1.0,3.0,0
+Richardson Jamie,ENG,0.0,0.0,0.0,8.0,2.0,1.0,3.0,0
 Richardson Joe,ENG,2.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Richardson Keith,USA,4.0,6.0,0.0,0.0,2.0,2.0,2.0,0
 Richardson Kenneth,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -547,14 +547,14 @@ Richardson Nate,USA,8.0,3.0,0.0,6.0,2.0,0.0,0.0,0
 Richardson Richie,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Richer Jessica Eve,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Richey William,USA,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Richman Mike,USA,,,0.0,9.0,1.0,7.0,0.0,0
-Richmond Jana,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Richman Mike,USA,0.0,0.0,0.0,9.0,1.0,7.0,0.0,0
+Richmond Jana,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Richmond Johnathan,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Richter Roderick,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Richwine Justin,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ricignuolo Clara,FRA,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0
 Rick Jeff,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rickels David,USA,,,0.0,7.0,4.0,6.0,1.0,0
+Rickels David,USA,0.0,0.0,0.0,7.0,4.0,6.0,1.0,0
 Ricker Christina,USA,1.0,3.0,0.0,0.0,3.0,0.0,0.0,0
 Ricketts Michael,USA,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Ricks Herman,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -563,7 +563,7 @@ Rico Jose,USA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Riconneau Fabrice,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ricotta Graziele,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Ridasmaa Jani,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Riddell Brad,NZL,,,0.0,5.0,1.0,0.0,1.0,0
+Riddell Brad,NZL,0.0,0.0,0.0,5.0,1.0,0.0,1.0,0
 Riddell Mike,NZL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Riddle Matthew,USA,8.0,3.0,0.0,1.0,1.0,1.0,0.0,0
 Rider Adam,USA,0.0,4.0,0.0,0.0,1.0,0.0,3.0,0
@@ -578,14 +578,14 @@ Rigel TJ,ITA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Riggio Anthony,SUI,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Riggleman Jessie,SUI,4.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Riggs Jeremiah,SUI,1.0,4.0,0.0,0.0,1.0,0.0,3.0,0
-Riggs Joe,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Riggs Joe,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Riggs Michael,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Rigmaden Richard,USA,0.0,6.0,0.0,0.0,2.0,0.0,4.0,0
 Rigsby Jason,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rijmen Jochim,BEL,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Rijtslag Sebastiaan,BEL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ril Thawa,BEL,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
-Riley Aaron,USA,,,0.0,5.0,7.0,0.0,0.0,0
+Riley Aaron,USA,0.0,0.0,0.0,5.0,7.0,0.0,0.0,0
 Riley Andy,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Riley Jason,USA,1.0,5.0,0.0,1.0,4.0,0.0,1.0,0
 Riley Jesse,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -596,7 +596,7 @@ Riley Trevor,WAL,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Riley Zac,USA,5.0,4.0,0.0,0.0,0.0,3.0,0.0,0
 Rimbon Moise,USA,8.0,6.0,0.0,2.0,0.0,4.0,1.0,0
 Rimkevicius Tadas,LTU,0.0,7.0,0.0,0.0,6.0,0.0,0.0,0
-Rinaldi Jordan,USA,,,0.0,1.0,2.0,8.0,1.0,0
+Rinaldi Jordan,USA,0.0,0.0,0.0,1.0,2.0,8.0,1.0,0
 Rinaldi Mario,USA,1.0,4.0,0.0,0.0,4.0,0.0,0.0,0
 Rincon Eddie,USA,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0
 Rincon Shaianna,USA,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0
@@ -604,11 +604,11 @@ Rind Sammy,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rine Jason,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Ring Dan,USA,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Ring Falon,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ring Nick,CAN,,,0.0,2.0,0.0,6.0,0.0,0
+Ring Nick,CAN,0.0,0.0,0.0,2.0,0.0,6.0,0.0,0
 Ringa Piki Te,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rintal Dave,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rintoul Dave,ENG,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Rio Mike,USA,,,0.0,4.0,2.0,5.0,2.0,0
+Rio Mike,USA,0.0,0.0,0.0,4.0,2.0,5.0,2.0,0
 Rion Aubrey,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Riordan Conor,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Riordon Maureen,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
@@ -632,13 +632,13 @@ Riso Vitor,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Risso Gaia,ITA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ristic Sanja,ITA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rita Santa,ITA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rita Steve,ITA,,,0.0,0.0,0.0,0.0,0.0,0
+Rita Steve,ITA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ritani-Coe Brice,USA,4.0,5.0,0.0,4.0,2.0,0.0,2.0,0
-Ritch Shannon,USA,,,0.0,0.0,8.0,1.0,1.0,0
+Ritch Shannon,USA,0.0,0.0,0.0,0.0,8.0,1.0,1.0,0
 Ritchie Jacob,USA,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Rithy Thai,CAM,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ritter Gary,CAM,,,0.0,0.0,0.0,0.0,0.0,0
-Ritter Gerald,CAM,,,0.0,0.0,0.0,0.0,0.0,0
+Ritter Gary,CAM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Ritter Gerald,CAM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ritter Tony,CAM,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rittgers Jason,CAM,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Riva Rivanildo,CAM,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -659,7 +659,7 @@ River Christina,VEN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rivera Adam,VEN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rivera Carlos,VEN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rivera Christian,VEN,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Rivera Dante,USA,,,0.0,3.0,1.0,8.0,1.0,0
+Rivera Dante,USA,0.0,0.0,0.0,3.0,1.0,8.0,1.0,0
 Rivera David,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rivera Dominic,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Rivera Eduardo,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -668,16 +668,16 @@ Rivera Elim,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rivera Emmanuel,USA,6.0,2.0,0.0,4.0,0.0,0.0,0.0,0
 Rivera Esteban,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rivera Fernando,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rivera Francisco,USA,,,0.0,8.0,1.0,0.0,3.0,0
-Rivera Irwin,MEX,,,0.0,5.0,2.0,1.0,0.0,0
+Rivera Francisco,USA,0.0,0.0,0.0,8.0,1.0,0.0,3.0,0
+Rivera Irwin,MEX,0.0,0.0,0.0,5.0,2.0,1.0,0.0,0
 Rivera Jason,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rivera Jerome,USA,,,0.0,1.0,3.0,6.0,2.0,0
+Rivera Jerome,USA,0.0,0.0,0.0,1.0,3.0,6.0,2.0,0
 Rivera Jesus,USA,1.0,2.0,0.0,1.0,1.0,0.0,0.0,0
-Rivera Jimmie,PUR,,,0.0,4.0,1.0,2.0,0.0,0
+Rivera Jimmie,PUR,0.0,0.0,0.0,4.0,1.0,2.0,0.0,0
 Rivera Joey,USA,7.0,1.0,0.0,2.0,1.0,5.0,0.0,0
 Rivera John,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rivera Jonathan,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Rivera Jorge,USA,,,0.0,0.0,0.0,2.0,3.0,0
+Rivera Jorge,USA,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0
 Rivera Jose,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rivera Kenny,USA,2.0,2.0,0.0,0.0,1.0,1.0,0.0,0
 Rivera Maria,USA,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0
@@ -695,7 +695,7 @@ Rivers-Blasso Cassandra,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rizzo Joe,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rizzo John,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rizzo Matt,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rizzo Pedro,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Rizzo Pedro,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rizzo Victor,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rizzuto Dion,BRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Rlayang Theo,USA,5.0,1.0,0.0,3.0,0.0,1.0,0.0,0
@@ -707,7 +707,7 @@ Robakidze Paata,USA,0.0,5.0,0.0,0.0,2.0,0.0,1.0,0
 Robb AJ,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Robb Cassie,USA,0.0,9.0,0.0,0.0,2.0,0.0,2.0,0
 Robbie Peter,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Robbins Chet,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Robbins Chet,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Robbins Justin,USA,0.0,8.0,0.0,0.0,2.0,0.0,5.0,0
 Robbins Kali,USA,6.0,3.0,0.0,1.0,1.0,4.0,0.0,0
 Robbins Neil,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -732,13 +732,13 @@ Roberts Alexei,BRA,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Roberts Andre,BRA,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0
 Roberts Andy,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Roberts Brian,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Roberts Buddy,USA,,,0.0,4.0,2.0,5.0,1.0,0
+Roberts Buddy,USA,0.0,0.0,0.0,4.0,2.0,5.0,1.0,0
 Roberts Clint,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Roberts Clinton,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Roberts Corey,USA,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0
 Roberts Damon,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Roberts Daniel,USA,,,0.0,0.0,1.0,9.0,1.0,0
-Roberts Danny,ENG,,,0.0,8.0,3.0,5.0,2.0,0
+Roberts Daniel,USA,0.0,0.0,0.0,0.0,1.0,9.0,1.0,0
+Roberts Danny,ENG,0.0,0.0,0.0,8.0,3.0,5.0,2.0,0
 Roberts Dave,USA,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Roberts David,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Roberts Dean,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -749,12 +749,12 @@ Roberts Jesse,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Roberts Joel,USA,0.0,5.0,0.0,0.0,2.0,0.0,1.0,0
 Roberts Joey,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Roberts Kacey,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
-Roberts Leon,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Roberts Leon,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Roberts Michael,USA,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0
 Roberts Mike,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Roberts Robby,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Roberts Roosevelt,USA,,,0.0,3.0,1.0,5.0,1.0,0
-Roberts Ryan,USA,,,0.0,8.0,1.0,3.0,7.0,0
+Roberts Roosevelt,USA,0.0,0.0,0.0,3.0,1.0,5.0,1.0,0
+Roberts Ryan,USA,0.0,0.0,0.0,8.0,1.0,3.0,7.0,0
 Roberts Taylor,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Roberts Thomas,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Roberts Tommy,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -766,12 +766,12 @@ Robertson Andy,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Robertson Colton,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Robertson Craig,SCT,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Robertson Ford,CAN,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Robertson Gillian,CAN,,,0.0,1.0,1.0,7.0,1.0,0
+Robertson Gillian,CAN,0.0,0.0,0.0,1.0,1.0,7.0,1.0,0
 Robertson Hamish,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Robertson Josh,CAN,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
-Robertson Kenny,USA,,,0.0,4.0,2.0,9.0,0.0,0
+Robertson Kenny,USA,0.0,0.0,0.0,4.0,2.0,9.0,0.0,0
 Robertson Michael,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Robichaux Chad,USA,,,0.0,1.0,1.0,0.0,0.0,0
+Robichaux Chad,USA,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0
 Robinet Sebastian,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Robins Lanikqua,USA,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0
 Robinson Aaron,USA,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0
@@ -785,7 +785,7 @@ Robinson Clayton,USA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Robinson Colin,USA,0.0,8.0,0.0,0.0,3.0,0.0,3.0,0
 Robinson Damonte,USA,6.0,1.0,1.0,1.0,0.0,3.0,1.0,0
 Robinson Dominique,USA,4.0,3.0,0.0,1.0,0.0,0.0,1.0,0
-Robinson Don,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Robinson Don,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Robinson John,ENG,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Robinson Josh,USA,3.0,6.0,0.0,0.0,4.0,0.0,1.0,0
 Robinson Kalel,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -829,27 +829,27 @@ Rocha Rumolo,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rocha Sam,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rocha Sidy,BRA,0.0,5.0,1.0,0.0,1.0,0.0,0.0,0
 Rocha Tiago,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rocha Vagner,USA,,,0.0,2.0,1.0,8.0,1.0,0
+Rocha Vagner,USA,0.0,0.0,0.0,2.0,1.0,8.0,1.0,0
 Rocha Leite Rafael,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Rocha-Pereira Marcelo,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rochin Alejandro,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rochin Alejandro,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rochon Serge,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rock Lucas,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rock Shem,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rockel Keith,ENG,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0
-Rockhold Luke,USA,,,0.0,6.0,5.0,8.0,0.0,0
+Rockhold Luke,USA,0.0,0.0,0.0,6.0,5.0,8.0,0.0,0
 Rockins Anthony,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rockwhite Chad,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Rodaki Danilo,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Roddy Kevin,USA,,,0.0,0.0,2.0,0.0,0.0,0
+Roddy Kevin,USA,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0
 Roddy Owen,USA,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Roddy Ryan,USA,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0
 Roder Harold,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Roderick Geno,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodgers Anthony,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rodgers David,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rodgers Jason,USA,,,0.0,0.0,0.0,0.0,0.0,0
-Rodgers Mark,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rodgers Jason,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Rodgers Mark,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rodica Alina,ROM,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Rodish Cassie,USA,5.0,4.0,0.0,2.0,0.0,3.0,2.0,0
 Rodolfo Jose,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -865,14 +865,14 @@ Rodrigues Alisson Deivid,BRA,0.0,2.0,1.0,0.0,1.0,0.0,1.0,0
 Rodrigues Arlinter,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodrigues Caio,BRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Rodrigues Cesar Fabiano,BRA,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0
-Rodrigues Ciro,BRA,,,0.0,0.0,0.0,4.0,0.0,0
+Rodrigues Ciro,BRA,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0
 Rodrigues Diego,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rodrigues Elton,BRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Rodrigues Erinaldo dos Santos,BRA,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0
 Rodrigues Fabiano,BRA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Rodrigues Fabio Emanuel,BRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Rodrigues Francisco,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Rodrigues Gregory,BRA,,,0.0,6.0,2.0,3.0,0.0,0
+Rodrigues Gregory,BRA,0.0,0.0,0.0,6.0,2.0,3.0,0.0,0
 Rodrigues Guilherme Matos,BRA,1.0,4.0,0.0,1.0,1.0,0.0,1.0,0
 Rodrigues Ivan,BRA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Rodrigues Janio,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -904,14 +904,14 @@ Rodrigues Tancredo,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodrigues Ururahy,BRA,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Rodrigues Washington,BRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Rodrigues Wellington,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rodrigues Zeilton,BRA,,,0.0,6.0,0.0,5.0,1.0,0
+Rodrigues Zeilton,BRA,0.0,0.0,0.0,6.0,0.0,5.0,1.0,0
 Rodrigues Braga Marcio Bruno,BRA,1.0,4.0,0.0,1.0,1.0,0.0,2.0,0
 Rodrigues Costa Leandro,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rodrigues de Melo Ivan,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rodrigues de Oliveira Josenildo,BRA,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0
 Rodrigues de Souza Joao Paulo,BRA,2.0,9.0,0.0,0.0,3.0,2.0,1.0,0
 Rodrigues Gomes Rondinelli,BRA,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0
-Rodrigues Jr. Fernando,BRA,,,0.0,8.0,3.0,2.0,1.0,0
+Rodrigues Jr. Fernando,BRA,0.0,0.0,0.0,8.0,3.0,2.0,1.0,0
 Rodrigues Passos Vitor Hugo,BRA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Rodrigues Patricio Williams,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rodrigues Piazza Santos Marcelo,BRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
@@ -927,13 +927,13 @@ Rodriguez Andoni Sorando,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Angel,MEX,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rodriguez Anita,USA,1.0,3.0,0.0,0.0,1.0,1.0,1.0,0
 Rodriguez Anthony,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rodriguez Augustine,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rodriguez Augustine,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rodriguez Brenda,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Rodriguez Carlos,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rodriguez Carlos,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rodriguez Chris,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rodriguez Christian,USA,6.0,0.0,0.0,3.0,0.0,2.0,0.0,0
 Rodriguez Cristian,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rodriguez Daniel,USA,,,0.0,8.0,0.0,4.0,0.0,0
+Rodriguez Daniel,USA,0.0,0.0,0.0,8.0,0.0,4.0,0.0,0
 Rodriguez Danny,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Rodriguez Darwin,ESP,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Rodriguez Dominic,ESP,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -941,7 +941,7 @@ Rodriguez Drako,USA,7.0,3.0,0.0,2.0,2.0,4.0,0.0,0
 Rodriguez Efrain,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rodriguez Elias,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Eliazar,USA,8.0,7.0,0.0,3.0,2.0,3.0,3.0,0
-Rodriguez Eliseo,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rodriguez Eliseo,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rodriguez Elvin,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Erinaldo,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Evian,USA,0.0,5.0,0.0,0.0,0.0,0.0,5.0,0
@@ -968,13 +968,13 @@ Rodriguez Larry,MEX,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rodriguez Leonardo,MEX,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Leslie,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Rodriguez Lina Franco,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rodriguez Luis,USA,,,0.0,5.0,0.0,3.0,0.0,0
-Rodriguez Manuel,AUS,,,0.0,1.0,3.0,7.0,2.0,0
+Rodriguez Luis,USA,0.0,0.0,0.0,5.0,0.0,3.0,0.0,0
+Rodriguez Manuel,AUS,0.0,0.0,0.0,1.0,3.0,7.0,2.0,0
 Rodriguez Marcos,AUS,1.0,2.0,0.0,1.0,0.0,0.0,2.0,0
-Rodriguez Marina,BRA,,,0.0,6.0,0.0,1.0,0.0,0
+Rodriguez Marina,BRA,0.0,0.0,0.0,6.0,0.0,1.0,0.0,0
 Rodriguez Mervin,BRA,1.0,6.0,0.0,0.0,0.0,0.0,3.0,0
 Rodriguez Michael,BRA,1.0,3.0,0.0,0.0,2.0,1.0,1.0,0
-Rodriguez Mike,USA,,,0.0,9.0,1.0,2.0,3.0,0
+Rodriguez Mike,USA,0.0,0.0,0.0,9.0,1.0,2.0,3.0,0
 Rodriguez Nate,USA,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0
 Rodriguez Noel,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Rodriguez Orlando,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
@@ -986,8 +986,8 @@ Rodriguez Piera,USA,7.0,0.0,0.0,5.0,0.0,0.0,0.0,0
 Rodriguez Rafael,ESP,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Ramon,ESP,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Raul,ESP,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
-Rodriguez Ray,USA,,,0.0,3.0,1.0,8.0,4.0,0
-Rodriguez Ricco,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rodriguez Ray,USA,0.0,0.0,0.0,3.0,1.0,8.0,4.0,0
+Rodriguez Ricco,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rodriguez Roberto,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rodriguez Sam,USA,0.0,4.0,0.0,0.0,1.0,0.0,3.0,0
 Rodriguez Steven,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -995,29 +995,29 @@ Rodriguez Tony,CRC,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Rodriguez Ulfrano,CRC,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Victor,URU,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Violeta,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rodriguez Yair,MEX,,,0.0,5.0,2.0,3.0,0.0,0
+Rodriguez Yair,MEX,0.0,0.0,0.0,5.0,2.0,3.0,0.0,0
 Rodriguez Gutierrez Rafael,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriguez Lacerda Claudinei,MEX,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rodriguez Lopez Oziel,MEX,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Rodrique David,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rodriques Marcello,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rodriquez Ron,MEX,,,0.0,0.0,0.0,0.0,0.0,0
+Rodriquez Ron,MEX,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Roehrick Nick,USA,9.0,2.0,0.0,2.0,2.0,2.0,0.0,0
 Rofi Artur,USA,6.0,1.0,0.0,1.0,0.0,5.0,0.0,0
 Rogerio de Agostinho Luis,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rogers Bear,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rogers Brett,USA,,,0.0,0.0,0.0,1.0,2.0,0
-Rogers Brian,USA,,,0.0,9.0,4.0,2.0,0.0,0
+Rogers Brett,USA,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0
+Rogers Brian,USA,0.0,0.0,0.0,9.0,4.0,2.0,0.0,0
 Rogers Jamie,USA,1.0,4.0,0.0,0.0,2.0,0.0,0.0,0
 Rogers Jeremy,USA,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
-Rogers Lucy,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rogers Lucy,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rogers Matt,USA,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0
 Rogers Miki,USA,0.0,5.0,0.0,0.0,0.0,0.0,3.0,0
 Rogers Nick,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rogers Phil,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rogers Phil,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rogers Ronnie,USA,3.0,6.0,0.0,0.0,0.0,1.0,4.0,0
 Rogers Ryan,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rogers Saul,ENG,,,0.0,1.0,0.0,9.0,3.0,0
+Rogers Saul,ENG,0.0,0.0,0.0,1.0,0.0,9.0,3.0,0
 Rogers Steven,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rogers Tarron,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rogers Jr. Pete,CAN,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0
@@ -1031,7 +1031,7 @@ Rojas Luis Fonseca,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rojas Max,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rojas Ventura,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rojas Jr. Roberto,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
-Rojo Marcelo,ARG,,,0.0,8.0,1.0,6.0,4.0,0
+Rojo Marcelo,ARG,0.0,0.0,0.0,8.0,1.0,6.0,4.0,0
 Rojo Rick,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Roka Asha,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Roland Adam,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -1041,7 +1041,7 @@ Roley Austin,ARG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rolinski Jack,ARG,1.0,2.0,0.0,1.0,1.0,0.0,1.0,0
 Roll Adam,ARG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Roller Brett,ARG,0.0,4.0,0.0,0.0,1.0,0.0,2.0,0
-Roller Shane,USA,,,0.0,3.0,3.0,6.0,3.0,0
+Roller Shane,USA,0.0,0.0,0.0,3.0,3.0,6.0,3.0,0
 Rolling Cody,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rollins Chris,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Rollins Jared,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1054,8 +1054,8 @@ Romandine Vincent,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Romani Ihab El,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Romano Enrico,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Romano Romulo,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Romanov Alexandr,MDA,,,0.0,6.0,0.0,8.0,0.0,0
-Romanov Sergey,RUS,,,0.0,0.0,0.0,0.0,0.0,0
+Romanov Alexandr,MDA,0.0,0.0,0.0,6.0,0.0,8.0,0.0,0
+Romanov Sergey,RUS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Romanovskij Sbigniev,RUS,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
 Romanowski Sebastian,POL,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0
 Romanowski Tomasz,POL,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1068,10 +1068,10 @@ Romero Aaron,ITA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Romero Andressa,ITA,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
 Romero Anthony,CAN,9.0,0.0,0.0,2.0,0.0,1.0,0.0,0
 Romero Cindy,CAN,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Romero Daniel,CAN,,,0.0,0.0,0.0,0.0,0.0,0
+Romero Daniel,CAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Romero Fernando,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Romero Gabby,USA,2.0,3.0,0.0,0.0,1.0,2.0,0.0,0
-Romero Indalecio Tat,USA,,,0.0,0.0,0.0,9.0,3.0,0
+Romero Indalecio Tat,USA,0.0,0.0,0.0,0.0,0.0,9.0,3.0,0
 Romero Jesse,USA,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0
 Romero Jonathan,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Romero Kaleio,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1080,13 +1080,13 @@ Romero Michael,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Romero Raoul,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Romero Raul,USA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Romero Reydon,USA,1.0,4.0,0.0,0.0,2.0,0.0,2.0,0
-Romero Ricardo,USA,,,0.0,4.0,2.0,5.0,0.0,0
-Romero Robert,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Romero Ricardo,USA,0.0,0.0,0.0,4.0,2.0,5.0,0.0,0
+Romero Robert,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Romero Samuel,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Romero Victor,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Romero Will,CAN,1.0,5.0,0.0,0.0,1.0,0.0,1.0,0
-Romero Yoel,CUB,,,0.0,0.0,0.0,0.0,0.0,0
-Romero Borella Mara,ITA,,,0.0,3.0,4.0,4.0,3.0,0
+Romero Yoel,CUB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Romero Borella Mara,ITA,0.0,0.0,0.0,3.0,4.0,4.0,3.0,0
 Romero Machado Irwing,BRA,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0
 Romious Cortavious,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Romming Johan,FRA,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0
@@ -1102,11 +1102,11 @@ Rong Fan,COL,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Ronie Ronie,COL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ronnie Ronnie,COL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ronodimedjo Guillermo,COL,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Ronson Jesse,CAN,,,0.0,0.0,0.0,7.0,1.0,0
+Ronson Jesse,CAN,0.0,0.0,0.0,0.0,0.0,7.0,1.0,0
 Roodman Gordon,RSA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rooks Charles,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rooney Damien,IRL,,,0.0,2.0,3.0,6.0,0.0,0
-Roop George,USA,,,0.0,4.0,5.0,4.0,4.0,0
+Rooney Damien,IRL,0.0,0.0,0.0,2.0,3.0,6.0,0.0,0
+Roop George,USA,0.0,0.0,0.0,4.0,5.0,4.0,4.0,0
 Roos Robin,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Root Dan,USA,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0
 Rooze Rene,USA,1.0,2.0,0.0,1.0,1.0,0.0,0.0,0
@@ -1120,13 +1120,13 @@ Roquet Joey,JPN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rorison Jason,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Roriston Gaz,JPN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rosa Aaron,USA,4.0,5.0,0.0,0.0,3.0,2.0,2.0,0
-Rosa Charles,USA,,,0.0,3.0,1.0,8.0,0.0,0
+Rosa Charles,USA,0.0,0.0,0.0,3.0,1.0,8.0,0.0,0
 Rosa Cristiano,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rosa Felipe,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rosa Gustavo,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Rosa Herve,FRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rosa Itamar,FRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Rosa Karol,BRA,,,0.0,4.0,0.0,2.0,2.0,0
+Rosa Karol,BRA,0.0,0.0,0.0,4.0,0.0,2.0,2.0,0
 Rosa Louie,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rosa Lucas,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rosa Pamela,BRA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1137,11 +1137,11 @@ Rosa de Almeida Lucas,AUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rosa Jr. Divino da Silva,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Rosaaen Josh,BRA,2.0,1.0,0.0,0.0,0.0,2.0,1.0,0
 Rosadhi Brianata,INA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rosales Jacob,USA,,,0.0,5.0,1.0,2.0,1.0,0
-Rosales Marcos,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rosales Jacob,USA,0.0,0.0,0.0,5.0,1.0,2.0,1.0,0
+Rosales Marcos,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rosales Rudy,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rosales Santos,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Rosales Tony,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rosales Tony,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rosario Julio,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rosas Kenia,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rosas Raul,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1167,11 +1167,11 @@ Roseanne Josh,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rosenbaum Jake,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rosencrans Shawn,ENG,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rosenlind Mattias,ENG,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Rosenthal Josh,ENG,,,0.0,0.0,0.0,0.0,0.0,0
+Rosenthal Josh,ENG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Roses Guns,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rosfort-Nees Kenneth,ENG,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Rosholt Jake,USA,,,0.0,5.0,2.0,6.0,3.0,0
-Rosholt Jared,USA,,,0.0,5.0,6.0,3.0,1.0,0
+Rosholt Jake,USA,0.0,0.0,0.0,5.0,2.0,6.0,3.0,0
+Rosholt Jared,USA,0.0,0.0,0.0,5.0,6.0,3.0,1.0,0
 Rosic Nihad,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rosier Kevin,USA,1.0,4.0,0.0,1.0,2.0,0.0,2.0,0
 Rosinski Adrian,POL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -1183,12 +1183,12 @@ Ross Craig,USA,0.0,3.0,0.0,0.0,1.0,0.0,1.0,0
 Ross Elijah,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ross Javanis,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ross Jeremy,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
-Ross Mike,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Ross Mike,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ross Peggy,USA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Ross Shannon,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ross Will,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rossbach Brandon,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rossborough Nick,USA,,,0.0,7.0,3.0,0.0,0.0,0
+Rossborough Nick,USA,0.0,0.0,0.0,7.0,3.0,0.0,0.0,0
 Rossi Gabriel,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rossi Potiello,CAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rossini Tony,CAN,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0
@@ -1197,7 +1197,7 @@ Rosso Bruna,BRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Rossouw Quinton,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rosta Dalton,USA,5.0,0.0,0.0,3.0,0.0,0.0,0.0,0
 Roswell Justin,USA,1.0,3.0,0.0,0.0,3.0,1.0,0.0,0
-Rota Lucas,BRA,,,0.0,7.0,2.0,1.0,3.0,0
+Rota Lucas,BRA,0.0,0.0,0.0,7.0,2.0,1.0,3.0,0
 Rotaru Lascar Corneliu,ROM,1.0,2.0,0.0,1.0,1.0,0.0,1.0,0
 Rothaermel Kristian,ROM,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rothana Chan,ROM,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -1206,17 +1206,17 @@ Rothbock Tommy,ROM,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rothenburg Kethylen,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rothenhausler Veronica,USA,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0
 Rothweiler Adam,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Rothwell Ben,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Rothwell Ben,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rouberte Andre,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rouch Philippe,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Roufus Rick,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Roumette Alexandre,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Round David,WAL,2.0,8.0,0.0,1.0,3.0,1.0,5.0,0
-Rountree Jr. Khalil,USA,,,0.0,7.0,2.0,0.0,1.0,0
+Rountree Jr. Khalil,USA,0.0,0.0,0.0,7.0,2.0,0.0,1.0,0
 Roura Nieto Jose,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Rousey Ronda,USA,,,0.0,3.0,2.0,9.0,0.0,0
+Rousey Ronda,USA,0.0,0.0,0.0,3.0,2.0,9.0,0.0,0
 Rousseau Florian,FRA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
-Roussel Benoit,FRA,,,0.0,0.0,0.0,0.0,0.0,0
+Roussel Benoit,FRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Routh Ray,FRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rowan Chad,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rowbotham Mike,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -1229,7 +1229,7 @@ Rowley Chris,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rowse Lindsay,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rowsell henry,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rowston Cameron,AUS,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
-Roy Glenn,AUS,,,0.0,0.0,0.0,0.0,0.0,0
+Roy Glenn,AUS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Roy Jefry,AUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Roy Kate,AUS,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Roy Katherine,USA,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -1239,20 +1239,20 @@ Roye Joe,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Royer Kain,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Royster Brad,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Roytberg Roman,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Royval Brandon,USA,,,0.0,3.0,1.0,8.0,1.0,0
+Royval Brandon,USA,0.0,0.0,0.0,3.0,1.0,8.0,1.0,0
 Rozalski Marcin,POL,7.0,4.0,0.0,4.0,0.0,2.0,3.0,0
 Rozanski Maciej,POL,4.0,1.0,0.0,0.0,0.0,3.0,0.0,0
 Rozanski Mikolaj,POL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rozema Anthony,USA,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0
 Rozema John,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Rozenstruik Jairzinho,SUR,,,0.0,0.0,0.0,0.0,0.0,0
+Rozenstruik Jairzinho,SUR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rozhkov Maxim,SUR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rozman Alex,SUR,0.0,6.0,0.0,0.0,2.0,0.0,3.0,0
 Rozmaring Peter,SUR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rozwens Oskar,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rozycki Bartosz,POL,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Rua Mauricio,BRA,,,0.0,0.0,0.0,1.0,3.0,0
-Rua Murilo,BRA,,,0.0,9.0,7.0,9.0,0.0,0
+Rua Mauricio,BRA,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0
+Rua Murilo,BRA,0.0,0.0,0.0,9.0,7.0,9.0,0.0,0
 Ruan Pereira de Araujo Carlos,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ruano Barrera Erick Rogelio,GUA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ruas Marco,GUA,5.0,3.0,0.0,1.0,2.0,4.0,0.0,0
@@ -1264,7 +1264,7 @@ Rubino Angelo,ITA,2.0,3.0,0.0,0.0,0.0,1.0,1.0,0
 Rubio Javier,ITA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rubio Michael Dan,ITA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rubio Pedro,ITA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Rubio Rodolfo,MEX,,,0.0,3.0,3.0,9.0,1.0,0
+Rubio Rodolfo,MEX,0.0,0.0,0.0,3.0,3.0,9.0,1.0,0
 Ruccolo Domenic,MEX,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rucker Chris,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rudakov Andrey,MEX,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
@@ -1274,7 +1274,7 @@ Rudinas Vincent,MEX,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rudloe Sky,MEX,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rudolph Fred Vieira,MEX,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rudy Rodolfo,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Ruediger Gabe,USA,,,0.0,4.0,5.0,0.0,0.0,0
+Ruediger Gabe,USA,0.0,0.0,0.0,4.0,5.0,0.0,0.0,0
 Ruelas Issac,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Ruelas Jose,MEX,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0
 Ruelas Marisol,MEX,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1288,7 +1288,7 @@ Rufino Ananias Carlos Eduardo,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rufino Ananias Carlos Rufino,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Rui Divino,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ruis Judith,BRA,6.0,5.0,0.0,1.0,0.0,4.0,1.0,0
-Ruiz Anthony,USA,,,0.0,1.0,2.0,0.0,5.0,0
+Ruiz Anthony,USA,0.0,0.0,0.0,1.0,2.0,0.0,5.0,0
 Ruiz Art,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Ruiz Brandon,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ruiz Cesar,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -1308,7 +1308,7 @@ Ruiz Castillo Ramiro,PER,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ruiz Perez Alvaro,PER,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rumero Indalecio,PER,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rumin Alejandro,PER,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Ruml Shawn,PER,,,0.0,0.0,0.0,0.0,0.0,0
+Ruml Shawn,PER,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rumley James,PER,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Rumpf Ron,PER,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Rumsey Lewis,PER,1.0,6.0,0.0,0.0,2.0,0.0,1.0,0
@@ -1318,7 +1318,7 @@ Runge Chris,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Runningbear Nick,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Runyan Katie Anita,USA,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Ruotolo Ciro,ITA,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
-Rupert John,ITA,,,0.0,0.0,0.0,0.0,0.0,0
+Rupert John,ITA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Rupponen Mikko,ITA,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Ruquet Joey,USA,1.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Ruscin Taylor,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
@@ -1344,7 +1344,7 @@ Russo Daniel,GER,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Russo Pedro,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Russo Rob,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Russom Dan,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Russow Mike,BRA,,,0.0,4.0,2.0,8.0,1.0,0
+Russow Mike,BRA,0.0,0.0,0.0,4.0,2.0,8.0,1.0,0
 Russul Vadim,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Rustambek Nurzhanov,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Rustemeyer Steve,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0

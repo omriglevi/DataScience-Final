@@ -1,5 +1,5 @@
 Full_Name,Country,Wins,Loses,Decision,Wins_By_KO,Loses_By_KO,Wins_By_Submission,Loses_By_Submission,Champion
-Iaquinta Al,USA,,,0.0,7.0,1.0,1.0,3.0,0
+Iaquinta Al,USA,0.0,0.0,0.0,7.0,1.0,1.0,3.0,0
 Iaquinta Guido,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Iba Conrad,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ibarra David,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -45,7 +45,7 @@ Ielo Page Stephanie,FRA,5.0,3.0,0.0,1.0,0.0,0.0,1.0,0
 Iezaki Akira,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ifekandu Emeka,USA,5.0,3.0,0.0,3.0,1.0,0.0,1.0,0
 Igarashi Ryosuke,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ige Dan,USA,,,0.0,4.0,0.0,5.0,0.0,0
+Ige Dan,USA,0.0,0.0,0.0,4.0,0.0,5.0,0.0,0
 Igenho Michel,BRA,0.0,4.0,0.0,0.0,3.0,0.0,1.0,0
 Igiagbor Anestis,GRE,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Iglesias Alan,GRE,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -72,7 +72,7 @@ Iio Keichi,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ijima Hiroaki,JPN,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Ikan Jaouad,JPN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ikebunna Obinwa,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ikeda Senzo,JPN,,,0.0,3.0,2.0,2.0,0.0,0
+Ikeda Senzo,JPN,0.0,0.0,0.0,3.0,2.0,2.0,0.0,0
 Ikeda Yoshinori,JPN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ikemoto Seichi,JPN,2.0,7.0,0.0,0.0,1.0,1.0,2.0,0
 Ikenishi Yusuke,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -96,16 +96,16 @@ Ilyasov Shamil,MEX,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Ilyasov Sunnat,KAZ,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ilyin Yuri,KAZ,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ilyukhin Mikhail,RUS,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0
-Imada Toby,RUS,,,0.0,1.0,1.0,6.0,2.0,0
+Imada Toby,RUS,0.0,0.0,0.0,1.0,1.0,6.0,2.0,0
 Imadaev Zelim,RUS,8.0,3.0,0.0,8.0,1.0,0.0,1.0,0
 Imaev Movsar,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Imai Shunya,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Imaizumi Kentaro,RUS,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Imamura Yusuke,RUS,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Iman Eric,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Imanari Masakazu,JPN,,,0.0,0.0,2.0,7.0,0.0,0
+Imanari Masakazu,JPN,0.0,0.0,0.0,0.0,2.0,7.0,0.0,0
 Imavov Daguir,JPN,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0
-Imavov Nassourdine,RUS,,,0.0,5.0,0.0,4.0,1.0,0
+Imavov Nassourdine,RUS,0.0,0.0,0.0,5.0,0.0,4.0,1.0,0
 Imazaki Seijo,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Imbierski Tobiasz,POL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Imegiato Tarcisio,POL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -119,7 +119,7 @@ Imperato Michael,KGZ,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0
 Imran Muhammad,KGZ,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 in 't Veld Olaf,KGZ,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Inaba Kanako,KGZ,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Inaba Satoshi,JPN,,,0.0,5.0,0.0,1.0,3.0,0
+Inaba Satoshi,JPN,0.0,0.0,0.0,5.0,0.0,1.0,3.0,0
 Inaba Sumiko,USA,3.0,0.0,0.0,2.0,0.0,1.0,0.0,0
 Inaba Tsutomu,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Inacio Jonathan,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -136,7 +136,7 @@ Ing Ricky,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Inge Mark,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ingeneri Asha,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Inger Olof,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Ingle Larry,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Ingle Larry,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ingram Chay,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Ingram Prentice,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ingram Scott,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
@@ -149,7 +149,7 @@ Iniong Gina,PHI,2.0,4.0,0.0,0.0,0.0,1.0,1.0,0
 Inkeroinen Teemu,PHI,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Inkumsah Paapa,PHI,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Inman Chris,PHI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Inman Matt,ENG,,,0.0,9.0,6.0,8.0,3.0,0
+Inman Matt,ENG,0.0,0.0,0.0,9.0,6.0,8.0,3.0,0
 Inocencio Conde Reinaldo,CUB,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Inocente Carlos,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Inocente Guto,BRA,6.0,6.0,0.0,3.0,1.0,2.0,2.0,0
@@ -160,8 +160,8 @@ Inoue Hideru,BRA,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
 Inoue Katsuya,BRA,5.0,4.0,2.0,1.0,3.0,0.0,1.0,0
 Inoue Manabu,BRA,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0
 Inoue Masaya,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Inoue Mizuki,JPN,,,0.0,0.0,0.0,9.0,0.0,0
-Inoue Naoki,JPN,,,0.0,1.0,0.0,0.0,0.0,0
+Inoue Mizuki,JPN,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0
+Inoue Naoki,JPN,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Inoue Seigo,JPN,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Inoue Shunsuke,JPN,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0
 Inoue Takeshi,JPN,5.0,9.0,0.0,4.0,1.0,0.0,1.0,0
@@ -176,8 +176,8 @@ Iodice Patrick,RSA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Ione Lavinia,RSA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ionel Sergei,RSA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ionov Alexandr,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Iorio Phillipe,RUS,,,0.0,0.0,0.0,0.0,0.0,0
-Iovine Luca,ITA,,,0.0,3.0,1.0,5.0,0.0,0
+Iorio Phillipe,RUS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Iovine Luca,ITA,0.0,0.0,0.0,3.0,1.0,5.0,0.0,0
 Irashanov Ismail,ITA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Irashanov Shamil,ITA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ireland Daniel,ITA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -189,11 +189,11 @@ Irie Pedro,BRA,1.0,2.0,0.0,1.0,0.0,0.0,1.0,0
 Irigoitia Carlos,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Irineu de Castro Leonir,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Irisson Abdias,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Irizarry Ortiz Michael,BRA,,,0.0,3.0,1.0,6.0,0.0,0
+Irizarry Ortiz Michael,BRA,0.0,0.0,0.0,3.0,1.0,6.0,0.0,0
 Irlitsin Dmitriy,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Irons Jacob,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Irvin Eric,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Irvin James,USA,,,0.0,0.0,0.0,3.0,3.0,0
+Irvin James,USA,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0
 Irvine Chris,USA,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0
 Irvine Glenn,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Irving Peter,USA,3.0,1.0,0.0,0.0,0.0,2.0,0.0,0
@@ -223,17 +223,17 @@ Ishibashi Keita,UKR,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Ishibashi Kota,JPN,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0
 Ishibashi Michiyuki,JPN,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0
 Ishida Katsuya,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ishida Mitsuhiro,JPN,,,0.0,0.0,4.0,2.0,1.0,0
+Ishida Mitsuhiro,JPN,0.0,0.0,0.0,0.0,4.0,2.0,1.0,0
 Ishida Yudai,JPN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ishigami Yasutaka,JPN,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0
 Ishige Daizo,JPN,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Ishige Rika,JPN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ishiguro Peter,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ishihara Miwako,JPN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Ishihara Teruto,JPN,,,0.0,8.0,1.0,0.0,2.0,0
+Ishihara Teruto,JPN,0.0,0.0,0.0,8.0,1.0,0.0,2.0,0
 Ishii Daisuke,JPN,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0
 Ishii Hayato,JPN,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ishii Satoshi,CRO,,,0.0,2.0,6.0,9.0,0.0,0
+Ishii Satoshi,CRO,0.0,0.0,0.0,2.0,6.0,9.0,0.0,0
 Ishii Takuma,CRO,0.0,2.0,1.0,0.0,0.0,0.0,2.0,0
 Ishii Toshiteru,CRO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ishikawa Eiji,CRO,3.0,7.0,2.0,0.0,1.0,0.0,0.0,0
@@ -242,7 +242,7 @@ Ishikawa Kikuyo,JPN,9.0,4.0,0.0,1.0,0.0,3.0,1.0,0
 Ishikawa Yoshiyuki,JPN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ishikawa Yuki,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ishioka Saori,JPN,0.0,8.0,0.0,0.0,0.0,0.0,3.0,0
-Ishiwatari Shintaro,JPN,,,0.0,9.0,5.0,2.0,1.0,0
+Ishiwatari Shintaro,JPN,0.0,0.0,0.0,9.0,5.0,2.0,1.0,0
 Ishizawa Daisuke,JPN,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0
 Ishizawa Tokimitsu,JPN,1.0,4.0,0.0,1.0,2.0,0.0,2.0,0
 Ishizuka Koichi,JPN,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
@@ -255,7 +255,7 @@ Islami Benjamin,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Islamov Yusup,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ismael Romulo,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ismael Soro,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ismagulov Damir,RUS,,,0.0,0.0,0.0,1.0,0.0,0
+Ismagulov Damir,RUS,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Ismail Amir,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ismail Wallid,EGY,1.0,3.0,0.0,0.0,1.0,1.0,0.0,0
 Ismailov Albert,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -273,10 +273,10 @@ Isozaki Norimasa,KGZ,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
 Israel Mario,BRA,2.0,3.0,0.0,1.0,1.0,0.0,0.0,0
 Israfilov Mirza,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Issa Fabio,RUS,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
-Issa Leandro,BRA,,,0.0,2.0,4.0,0.0,0.0,0
+Issa Leandro,BRA,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0
 Issouf Babia,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Istomin Mikhail,BRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Istrefi Valdrin,LIE,,,0.0,6.0,1.0,5.0,0.0,0
+Istrefi Valdrin,LIE,0.0,0.0,0.0,6.0,1.0,5.0,0.0,0
 Itagaki Morikazu,LIE,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Itaya Kazuki,LIE,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ito Asuka,LIE,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -293,8 +293,8 @@ Ivanciov Nikita,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ivanenko Matvey,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ivanets Denis,JPN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ivanoba Natalia,JPN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Ivanov Alexei,RUS,,,0.0,6.0,1.0,4.0,2.0,0
-Ivanov Blagoy,BUL,,,0.0,6.0,0.0,6.0,1.0,0
+Ivanov Alexei,RUS,0.0,0.0,0.0,6.0,1.0,4.0,2.0,0
+Ivanov Blagoy,BUL,0.0,0.0,0.0,6.0,0.0,6.0,1.0,0
 Ivanov Dmitri,EST,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0
 Ivanov Iskren,BUL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ivanov Ivan,BUL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -306,7 +306,7 @@ Ivanova Yuliyah,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Ivashkin Vladimir,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ivens Paul,RUS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Ivenskiy Evgeniy,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Ivey Johnathan,RUS,,,0.0,0.0,5.0,0.0,0.0,0
+Ivey Johnathan,RUS,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0
 Ivlev Yuri,RUS,2.0,5.0,0.0,1.0,3.0,0.0,1.0,0
 Ivo Leonardo,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ivory Richie,RUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -323,13 +323,13 @@ Iwasaki Johnny,JPN,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Iwasaki Tatsuya,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Iwase Shigetoshi,JPN,1.0,6.0,0.0,0.0,3.0,0.0,0.0,0
 Iwata Keisuke,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Izagakhmaev Saygid,JPN,,,0.0,2.0,0.0,0.0,0.0,0
+Izagakhmaev Saygid,JPN,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0
 Izakbaev Sirojiddin,JPN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Izansky Valeriy,JPN,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Izar Salvador,JPN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Izidro Alexandre,JPN,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0
 Izoria Dimitri,JPN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Izotov Yuri,RUS,1.0,3.0,0.0,0.0,1.0,1.0,0.0,0
-Izquierdo Yoislandy,USA,,,0.0,7.0,0.0,1.0,2.0,0
+Izquierdo Yoislandy,USA,0.0,0.0,0.0,7.0,0.0,1.0,2.0,0
 Izumi Hiroshi,USA,3.0,1.0,0.0,2.0,1.0,0.0,0.0,0
 Izzard Devin,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0

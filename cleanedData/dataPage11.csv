@@ -1,6 +1,6 @@
 Full_Name,Country,Wins,Loses,Decision,Wins_By_KO,Loses_By_KO,Wins_By_Submission,Loses_By_Submission,Champion
 L'Heureux Jarrod,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-La N Sang Aung,MYA,,,0.0,0.0,0.0,0.0,0.0,0
+La N Sang Aung,MYA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 La Preziosa Simone,MYA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 la Rose Rafles,MYA,0.0,2.0,1.0,0.0,0.0,0.0,2.0,0
 Laayug Chris,MNP,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -8,8 +8,8 @@ Laba Karol,MNP,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Labar Phil,MNP,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Labasanov Achmed,MNP,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0
 Labban Ahmed,MNP,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-LaBerge Josh,USA,,,0.0,5.0,3.0,1.0,2.0,0
-Labiano Jeremiah,USA,,,0.0,4.0,2.0,4.0,0.0,0
+LaBerge Josh,USA,0.0,0.0,0.0,5.0,3.0,1.0,2.0,0
+Labiano Jeremiah,USA,0.0,0.0,0.0,4.0,2.0,4.0,0.0,0
 Labrie Levis,USA,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0
 LaBrute Momo,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lacelle Eric,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -19,20 +19,20 @@ Lacerda Otavio,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lacerda Tamyray,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lacey Aaron,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 LaChapelle Dave,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lachinov Kemran,USA,,,0.0,2.0,1.0,3.0,0.0,0
+Lachinov Kemran,USA,0.0,0.0,0.0,2.0,1.0,3.0,0.0,0
 Lachkova Kseniya,RUS,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0
 Lackner Hans,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lacky Tom,RUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 LaCroix Howard,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lacroix Melanie,USA,3.0,2.0,0.0,1.0,0.0,1.0,0.0,0
-Lacy BJ,USA,,,0.0,0.0,4.0,0.0,5.0,0
+Lacy BJ,USA,0.0,0.0,0.0,0.0,4.0,0.0,5.0,0
 Ladd Aspen,USA,9.0,2.0,0.0,6.0,1.0,1.0,0.0,0
 Ladi Tamas,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ladonna Anthony,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 LaDuke Michael,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lafaele Tipo,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 LaFlair Mike,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-LaFlare Ryan,USA,,,0.0,4.0,2.0,3.0,0.0,0
+LaFlare Ryan,USA,0.0,0.0,0.0,4.0,2.0,3.0,0.0,0
 Lafnouch Ayoub,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lafond David,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 LaFramboise Corinne,CAN,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -54,7 +54,7 @@ Laguna Ignacio,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lagunsad Louie,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Laguwans Tommy,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lagvilava Levon,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lahat Noad,ISR,,,0.0,2.0,4.0,6.0,0.0,0
+Lahat Noad,ISR,0.0,0.0,0.0,2.0,4.0,6.0,0.0,0
 Lahdemaki Tina,FIN,5.0,1.0,0.0,1.0,0.0,2.0,0.0,0
 Lahdesmaki Matteus,FIN,1.0,3.0,0.0,0.0,2.0,1.0,0.0,0
 Lahdesmaki Mikael,FIN,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -92,15 +92,15 @@ Lamare Myriam,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lamareaux Ryan,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lamark Delbert,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lamarr Marcus,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lamas Ricardo,USA,,,0.0,6.0,5.0,5.0,0.0,0
+Lamas Ricardo,USA,0.0,0.0,0.0,6.0,5.0,5.0,0.0,0
 Lamb Dean,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lamb Jake,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lamb Morrison,USA,0.0,4.0,0.0,0.0,2.0,0.0,2.0,0
 Lambe Jack,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lambert Eric,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lambert Gregoire,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lambert Jason,USA,,,0.0,4.0,7.0,2.0,2.0,0
-Lambert Jim,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Lambert Jason,USA,0.0,0.0,0.0,4.0,7.0,2.0,2.0,0
+Lambert Jim,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lambert Stephen,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lamberto Paolo,USA,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
 Lamborn Mark,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -126,20 +126,20 @@ Landeros Gonzalez Jose Manuel,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Landers Shawn,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Landers Terence,MEX,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Landi-Jones Jose,MEX,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Landi-Jons Jose,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Landi-Jons Jose,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Landin Jacob,USA,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0
 Landis Ryan,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
-Landless Larry,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Landless Larry,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Landoni Alex,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Landrigan James,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Landry Larry,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Landry TJ,USA,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0
-Landu Yves,FRA,,,0.0,4.0,1.0,5.0,1.0,0
-Landwehr Nate,USA,,,0.0,8.0,2.0,1.0,1.0,0
+Landu Yves,FRA,0.0,0.0,0.0,4.0,1.0,5.0,1.0,0
+Landwehr Nate,USA,0.0,0.0,0.0,8.0,2.0,1.0,1.0,0
 Lane Austen,USA,2.0,2.0,0.0,2.0,2.0,0.0,0.0,0
 Lane Bryan,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Lane Chris,USA,1.0,5.0,0.0,0.0,2.0,1.0,3.0,0
-Lane Julian,USA,,,0.0,1.0,4.0,7.0,0.0,0
+Lane Julian,USA,0.0,0.0,0.0,1.0,4.0,7.0,0.0,0
 Lanfranco Aaron,USA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Lang Andrew,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lang Jeremy,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -167,21 +167,21 @@ Lanier Josh,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Lankester Craig,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lanna Fred,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lannon Joshua,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lansberg Lina,SWE,,,0.0,4.0,3.0,0.0,0.0,0
+Lansberg Lina,SWE,0.0,0.0,0.0,4.0,3.0,0.0,0.0,0
 Lansing John,SWE,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lanza Abrego Fernando,BOL,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lapatin Dmitriy,BOL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lapcevic John,BOL,,,0.0,0.0,0.0,0.0,0.0,0
+Lapcevic John,BOL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lapear Steve,BOL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lapicus Iuri,MDA,,,0.0,5.0,1.0,9.0,0.0,0
-Lapilus Damien,FRA,,,0.0,2.0,4.0,7.0,3.0,0
-Lapilus Taylor,FRA,,,0.0,2.0,0.0,6.0,0.0,0
+Lapicus Iuri,MDA,0.0,0.0,0.0,5.0,1.0,9.0,0.0,0
+Lapilus Damien,FRA,0.0,0.0,0.0,2.0,4.0,7.0,3.0,0
+Lapilus Taylor,FRA,0.0,0.0,0.0,2.0,0.0,6.0,0.0,0
 Lapin Ivan,FRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lapin Jevgenij,FRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 LaPlant Cory,FRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Laprakis Michail,GRE,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Laprise Chad,CAN,,,0.0,8.0,3.0,1.0,0.0,0
-Lapsley Anthony,CAN,,,0.0,3.0,1.0,0.0,0.0,0
+Laprise Chad,CAN,0.0,0.0,0.0,8.0,3.0,1.0,0.0,0
+Lapsley Anthony,CAN,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0
 Lapsley Kristian,NOR,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Laptev Alexander,NOR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lara Alejandra,COL,9.0,5.0,0.0,4.0,0.0,3.0,1.0,0
@@ -192,7 +192,7 @@ Lara Jared,MEX,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lara Josimar,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Lara Leon,BRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lara Manny,USA,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0
-Laramie TJ,CAN,,,0.0,7.0,2.0,2.0,1.0,0
+Laramie TJ,CAN,0.0,0.0,0.0,7.0,2.0,2.0,1.0,0
 Laramie Tony,CAN,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Larchet Thibaud,FRA,6.0,3.0,1.0,2.0,0.0,4.0,1.0,0
 Larenas Icho,FRA,1.0,2.0,0.0,1.0,2.0,0.0,0.0,0
@@ -203,16 +203,16 @@ Larisch Stefan,GER,0.0,4.0,0.0,0.0,3.0,0.0,0.0,0
 Larkin Chris,GER,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Larkin Declan,NIR,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Larkin Eric,NIR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Larkin Lorenz,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Larkin Lorenz,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Larock Joseph,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Laroco Brandon,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-LaRosa Tara,USA,,,0.0,3.0,1.0,0.0,0.0,0
+LaRosa Tara,USA,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0
 Laroski Robert,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Larrea Eddie,USA,,,0.0,2.0,2.0,1.0,1.0,0
+Larrea Eddie,USA,0.0,0.0,0.0,2.0,2.0,1.0,1.0,0
 Larsen Chris,USA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Larsen Cody,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Larsen Jeremy,USA,8.0,5.0,0.0,2.0,3.0,3.0,1.0,0
-Larson Brock,USA,,,0.0,9.0,3.0,0.0,0.0,0
+Larson Brock,USA,0.0,0.0,0.0,9.0,3.0,0.0,0.0,0
 Larson Cody,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Larson Isaiah,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Larson Jordon,USA,9.0,6.0,0.0,3.0,2.0,3.0,4.0,0
@@ -223,25 +223,25 @@ Larson Roland,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Larson Ryan,USA,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0
 Larson Tyler,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Larsson Justin,USA,0.0,4.0,0.0,0.0,1.0,0.0,2.0,0
-Larsson Tony,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Larsson Tony,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Larsson Viktor,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Laselva Marcio,USA,,,0.0,0.0,0.0,0.0,0.0,0
-Lashley Bobby,USA,,,0.0,5.0,1.0,7.0,0.0,0
+Laselva Marcio,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Lashley Bobby,USA,0.0,0.0,0.0,5.0,1.0,7.0,0.0,0
 Lashley Tim,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lashomb Bryan,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lasota Marcin,POL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lasota Rafal,POL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lasprilla Richard,POL,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Lassiter David,POL,,,0.0,0.0,0.0,0.0,0.0,0
+Lassiter David,POL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lassiter Mylo,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lastafka Dave,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Laszlo Kertesz,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Latalo Pawel,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Latchman Kendrick,USA,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0
 Lathouwers Majanka,USA,1.0,2.0,0.0,0.0,0.0,1.0,2.0,0
-Latifi Ilir,SWE,,,0.0,5.0,4.0,6.0,0.0,0
+Latifi Ilir,SWE,0.0,0.0,0.0,5.0,4.0,6.0,0.0,0
 Latina Frank,SWE,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
-Latoel Vincent,NED,,,0.0,7.0,3.0,7.0,1.0,0
+Latoel Vincent,NED,0.0,0.0,0.0,7.0,3.0,7.0,1.0,0
 Latomaki Jarkko,NED,0.0,4.0,0.0,0.0,3.0,0.0,1.0,0
 Latorre Sebastian,NED,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Latour Joseph,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -257,22 +257,22 @@ Laurel Carlo,BRA,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0
 Lauren Ralph,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Laurence Joe,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Laurent Mackensy,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Laurentino Luis Rafael,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Laurentino Luis Rafael,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Laurinaitis Mindaugas,BRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lauritsen Cole,BRA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Laursen Ole,BRA,1.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Lausa Jenel,PHI,7.0,6.0,0.0,2.0,0.0,2.0,2.0,0
 Lauzeckaite Arune,LTU,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lauzon Dan,USA,,,0.0,9.0,3.0,7.0,2.0,0
-Lauzon Joe,USA,,,0.0,9.0,6.0,0.0,0.0,0
+Lauzon Dan,USA,0.0,0.0,0.0,9.0,3.0,7.0,2.0,0
+Lauzon Joe,USA,0.0,0.0,0.0,9.0,6.0,0.0,0.0,0
 Lava Junior,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lavafor Shane,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lavallee Gabriel,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lavant Christopher,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lavender Chatt,USA,0.0,4.0,0.0,0.0,1.0,0.0,2.0,0
 Lavery Nathan,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lavery Peter,USA,,,0.0,0.0,0.0,0.0,0.0,0
-Lavigne Yves,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Lavery Peter,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Lavigne Yves,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lavin Dean,USA,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0
 Lavin Martin,USA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Lavine Will,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -283,17 +283,17 @@ Law Cody,USA,5.0,0.0,0.0,3.0,0.0,1.0,0.0,0
 Law Jason,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Law John Andrew,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Law Shaun,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lawal Muhammed,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Lawal Muhammed,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lawalata Mathieu,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lawerance Jesse,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Lawler Robbie,USA,,,0.0,0.0,0.0,1.0,6.0,0
-Lawley Mark,USA,,,0.0,0.0,0.0,0.0,0.0,0
-Lawlor Tom,USA,,,0.0,4.0,0.0,4.0,3.0,0
+Lawler Robbie,USA,0.0,0.0,0.0,0.0,0.0,1.0,6.0,0
+Lawley Mark,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Lawlor Tom,USA,0.0,0.0,0.0,4.0,0.0,4.0,3.0,0
 Lawrence Austin,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lawrence BJ,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lawrence Branden,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lawrence Josh,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lawrence Justin,USA,,,0.0,5.0,1.0,1.0,1.0,0
+Lawrence Justin,USA,0.0,0.0,0.0,5.0,1.0,1.0,1.0,0
 Lawrence Lance,USA,5.0,1.0,0.0,0.0,0.0,5.0,0.0,0
 Lawrence Mike,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Lawrence Paul,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -308,24 +308,24 @@ Lawson Roggy,FRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Lawton Jarod,FRA,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0
 Lax Jani,FRA,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0
 Layton William,FRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lazaro Valmir,BRA,,,0.0,9.0,1.0,0.0,1.0,0
+Lazaro Valmir,BRA,0.0,0.0,0.0,9.0,1.0,0.0,1.0,0
 Lazaro Chiguano Andrew Braulio,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lazarov Martin,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lazart Arif,ARG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lazarz Marcin,POL,8.0,5.0,0.0,2.0,1.0,2.0,2.0,0
 Lazebnov Anton,POL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lazic Sasa,POL,,,0.0,0.0,5.0,0.0,4.0,0
+Lazic Sasa,POL,0.0,0.0,0.0,0.0,5.0,0.0,4.0,0
 Lazic Savo,MTG,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0
-Lazishvili Zviad,GEO,,,0.0,0.0,0.0,9.0,0.0,0
+Lazishvili Zviad,GEO,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0
 Lazovski Vitaly,GEO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lazowski Adam,GEO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lazukov Evgeniy,GEO,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lazurin Dmitry,GEO,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lazzarini Cristiano,GEO,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
-Lazzez Mounir,TUN,,,0.0,8.0,1.0,0.0,0.0,0
+Lazzez Mounir,TUN,0.0,0.0,0.0,8.0,1.0,0.0,0.0,0
 Le Binh Son,TUN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Le Cung,VIE,9.0,3.0,0.0,8.0,3.0,0.0,0.0,0
-Le Thanh,USA,,,0.0,0.0,0.0,1.0,1.0,0
+Le Thanh,USA,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0
 Le Banner Jerome,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Leal Alessandro,FRA,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0
 Leal Carlos,BRA,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -346,22 +346,22 @@ Leao Joel,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Leao Pedro,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Learn Brian,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Learned Julian,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Leary Charlie,ENG,,,0.0,0.0,0.0,2.0,3.0,0
+Leary Charlie,ENG,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0
 Leatuna Adrian,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Leavitt Jordan,USA,9.0,1.0,0.0,1.0,0.0,6.0,0.0,0
 Leavy Fred,USA,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 LeBanner Jerome,FRA,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0
-LeBell Gene,FRA,,,0.0,0.0,0.0,0.0,0.0,0
-Leben Chris,USA,,,0.0,0.0,0.0,5.0,2.0,0
+LeBell Gene,FRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Leben Chris,USA,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0
 Lebkowski Kamil,POL,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0
-Leblanc Bob,POL,,,0.0,0.0,0.0,0.0,0.0,0
+Leblanc Bob,POL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 LeBlanc John,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 LeBlanc Julien,CAN,5.0,2.0,0.0,2.0,0.0,3.0,0.0,0
 Leblanc Martin,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Leblanc Sylvain,CAN,,,0.0,0.0,0.0,0.0,0.0,0
+Leblanc Sylvain,CAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Leblond Nicolas,CAN,6.0,4.0,0.0,1.0,0.0,3.0,0.0,0
 Lebosnoyani Jean-Paul,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lebout Mickael,FRA,,,0.0,2.0,2.0,6.0,0.0,0
+Lebout Mickael,FRA,0.0,0.0,0.0,2.0,2.0,6.0,0.0,0
 LeBouyonnec Franck,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 LeBreton Jr. Ronald,FRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lebron Andres,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -373,22 +373,22 @@ LeClerc Eric,CAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lecourt Thierry,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ledbetter Stephen,CAN,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0
 Ledbetter Tony,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ledesma Claudio,USA,,,0.0,2.0,0.0,3.0,0.0,0
+Ledesma Claudio,USA,0.0,0.0,0.0,2.0,0.0,3.0,0.0,0
 Ledet Justin,USA,9.0,4.0,0.0,2.0,2.0,5.0,0.0,0
 Ledezma Rafael,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Leduc Dave,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Ledvina Zdenek,USA,,,0.0,0.0,0.0,0.0,0.0,0
-Lee Aiden,ENG,,,0.0,2.0,1.0,6.0,1.0,0
+Ledvina Zdenek,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Lee Aiden,ENG,0.0,0.0,0.0,2.0,1.0,6.0,1.0,0
 Lee Akkim,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lee Alex,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lee Allan,USA,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0
-Lee Andrea,USA,,,0.0,3.0,0.0,5.0,1.0,0
-Lee Angela,USA,,,0.0,1.0,1.0,7.0,0.0,0
-Lee Bobby,USA,,,0.0,2.0,0.0,6.0,3.0,0
+Lee Andrea,USA,0.0,0.0,0.0,3.0,0.0,5.0,1.0,0
+Lee Angela,USA,0.0,0.0,0.0,1.0,1.0,7.0,0.0,0
+Lee Bobby,USA,0.0,0.0,0.0,2.0,0.0,6.0,3.0,0
 Lee Brent,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lee Bret,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lee Chris,USA,,,0.0,0.0,0.0,0.0,0.0,0
-Lee Christian,SIN,,,0.0,0.0,0.0,4.0,1.0,0
+Lee Chris,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Lee Christian,SIN,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0
 Lee Dae Yeon,SKO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lee David,ENG,2.0,5.0,0.0,0.0,2.0,2.0,3.0,0
 Lee Dayse,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -421,7 +421,7 @@ Lee Josh,USA,0.0,5.0,0.0,0.0,2.0,0.0,2.0,0
 Lee Joshua,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Lee Jung Gyeong,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lee Keith,USA,7.0,5.0,0.0,3.0,0.0,1.0,1.0,0
-Lee Kevin,USA,,,0.0,3.0,1.0,8.0,3.0,0
+Lee Kevin,USA,0.0,0.0,0.0,3.0,1.0,8.0,3.0,0
 Lee Kil Woo,USA,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lee Kwang Hee,USA,4.0,3.0,0.0,3.0,2.0,0.0,1.0,0
 Lee Matt,USA,2.0,6.0,1.0,1.0,3.0,0.0,1.0,0
@@ -444,7 +444,7 @@ Lee Tae Joo,SKO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lee Tommy,SKO,1.0,3.0,0.0,1.0,0.0,0.0,3.0,0
 Lee Ty,SKO,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lee Tyler,SKO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lee Vaughan,ENG,,,0.0,4.0,4.0,7.0,6.0,0
+Lee Vaughan,ENG,0.0,0.0,0.0,4.0,4.0,7.0,6.0,0
 Lee Woong Hee,ENG,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lee Ye Ji,SKO,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lee Yong Jae,SKO,1.0,3.0,0.0,0.0,1.0,0.0,2.0,0
@@ -455,13 +455,13 @@ Lee Young Joon,SKO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lee-El Anthony,SKO,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lees Shane,SKO,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0
 Lefebvre Francisco,SKO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lefebvre Luc,SKO,,,0.0,0.0,0.0,0.0,0.0,0
+Lefebvre Luc,SKO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lefevre Frederic,SKO,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lefkowitz Al,SKO,,,0.0,0.0,0.0,0.0,0.0,0
+Lefkowitz Al,SKO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Legaev Dmitriy,SKO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Legaspai Jerry,SKO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Legeno Dave,SKO,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Legere Jr. Ricky,USA,,,0.0,8.0,3.0,9.0,2.0,0
+Legere Jr. Ricky,USA,0.0,0.0,0.0,8.0,3.0,9.0,2.0,0
 Leggett Sherron,USA,3.0,3.0,0.0,1.0,1.0,0.0,1.0,0
 Legierski Mateusz,USA,7.0,1.0,0.0,4.0,1.0,1.0,0.0,0
 Legowo Yohan Mulia,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -488,7 +488,7 @@ Leite Juliana,BRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Leite Leonardo,BRA,9.0,2.0,0.0,3.0,0.0,2.0,0.0,0
 Leite Peterson,BRA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Leitermann Nick,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Leites Thales,BRA,,,0.0,4.0,1.0,0.0,0.0,0
+Leites Thales,BRA,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0
 Leiva Carlos,CHI,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lejsek Tomas,CHI,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lek Dimanche,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -504,13 +504,13 @@ Lemberanskij Rasim,AZE,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lemke Jonathan,USA,6.0,8.0,0.0,4.0,1.0,0.0,5.0,0
 Lemke Justin,USA,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lemley Gabe,USA,1.0,3.0,0.0,0.0,2.0,1.0,1.0,0
-Lemm Giovanni,USA,,,0.0,0.0,0.0,0.0,0.0,0
-Lemminger Mark,USA,,,0.0,6.0,3.0,3.0,0.0,0
+Lemm Giovanni,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Lemminger Mark,USA,0.0,0.0,0.0,6.0,3.0,3.0,0.0,0
 Lemmon Curt,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Lemoin Chad,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Lemoin Chad,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lemon Anthony,USA,0.0,5.0,0.0,0.0,0.0,0.0,5.0,0
 Lemon Gus,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lemos Amanda,BRA,,,0.0,7.0,1.0,2.0,0.0,0
+Lemos Amanda,BRA,0.0,0.0,0.0,7.0,1.0,2.0,0.0,0
 Lemos Artur,BRA,1.0,3.0,0.0,0.0,0.0,1.0,1.0,0
 Lemos Giacomo,BRA,6.0,0.0,0.0,5.0,0.0,1.0,0.0,0
 Lenard Kery,BRA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
@@ -526,8 +526,8 @@ Leno Joao,AUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lenoci Eddie,AUS,2.0,3.0,0.0,0.0,3.0,0.0,0.0,0
 Lenogue Jean Francois,AUS,1.0,6.0,0.0,1.0,1.0,0.0,2.0,0
 Lenormand Steve,AUS,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lentz Jeff,USA,,,0.0,6.0,0.0,1.0,0.0,0
-Lentz Nik,USA,,,0.0,0.0,0.0,8.0,2.0,0
+Lentz Jeff,USA,0.0,0.0,0.0,6.0,0.0,1.0,0.0,0
+Lentz Nik,USA,0.0,0.0,0.0,0.0,0.0,8.0,2.0,0
 Lenz Florian,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lenz Sterling,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Leo Ivan,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -545,7 +545,7 @@ Leonard Michael,USA,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0
 Leonardo Victoria,USA,8.0,5.0,0.0,1.0,3.0,4.0,1.0,0
 Leondes Patrick,PHI,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Leone Andrew,USA,8.0,4.0,0.0,0.0,1.0,2.0,3.0,0
-Leone Anthony,USA,,,0.0,0.0,1.0,7.0,4.0,0
+Leone Anthony,USA,0.0,0.0,0.0,0.0,1.0,7.0,4.0,0
 Leonhardt Chad,USA,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0
 Leontyev Vladimir,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Leopoldo Fabio,BRA,5.0,3.0,0.0,1.0,2.0,2.0,1.0,0
@@ -554,7 +554,7 @@ Leorde Tamara,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Leow Mae-Lin,BRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Lepe Antonio,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lepe Christian,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lepont Arnaud,FRA,,,0.0,2.0,2.0,9.0,3.0,0
+Lepont Arnaud,FRA,0.0,0.0,0.0,2.0,2.0,9.0,3.0,0
 Lepsenyi Zoltan,FRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lerchen Travis,FRA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lerma Alan,FRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -573,10 +573,10 @@ Lester Frank,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Lester Jay,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Letch Greg,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Letellier Forest,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lethaby David,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Lethaby David,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Leti Siitia,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Letourneau Ashley,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Letourneau Valerie,CAN,,,0.0,4.0,2.0,1.0,1.0,0
+Letourneau Valerie,CAN,0.0,0.0,0.0,4.0,2.0,1.0,1.0,0
 Letson Leah,USA,5.0,3.0,0.0,3.0,2.0,0.0,0.0,0
 Levante Matyas,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Levasseur Joe,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
@@ -586,7 +586,7 @@ Levens Justin,AUS,1.0,5.0,0.0,0.0,3.0,1.0,1.0,0
 Leveque C.J.,USA,8.0,9.0,0.0,4.0,6.0,1.0,3.0,0
 Leverton Kris,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Levesque Shawn,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-LeVesseur Marcus,USA,,,0.0,0.0,0.0,7.0,3.0,0
+LeVesseur Marcus,USA,0.0,0.0,0.0,0.0,0.0,7.0,3.0,0
 Levester Marcus,USA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Levi Aniko,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Levi Becky,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -613,8 +613,8 @@ Lewis Christian,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lewis Dan,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lewis Dean,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lewis Derek,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
-Lewis Derrick,USA,,,0.0,0.0,0.0,1.0,1.0,0
-Lewis Dwayne,CAN,,,0.0,7.0,5.0,3.0,0.0,0
+Lewis Derrick,USA,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0
+Lewis Dwayne,CAN,0.0,0.0,0.0,7.0,5.0,3.0,0.0,0
 Lewis Gary,CAN,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Lewis Graham,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lewis Isaiah,CAN,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0
@@ -664,7 +664,7 @@ Libra Thiago,SWE,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Licea Kenny,SWE,0.0,4.0,0.0,0.0,1.0,0.0,3.0,0
 Lichkovakha Oleg,RUS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lictawa Rich,RUS,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0
-Liddell Chuck,USA,,,0.0,0.0,0.0,1.0,1.0,0
+Liddell Chuck,USA,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0
 Lidicky Silvester,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Lidji Marc-Antoine,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lie Henrik,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -689,11 +689,11 @@ Lile Joseph,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lileikis Tautvydas,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Liles Donnie,USA,4.0,4.0,0.0,0.0,1.0,4.0,1.0,0
 Lilley James,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Lilley Ryan,USA,,,0.0,5.0,2.0,4.0,1.0,0
+Lilley Ryan,USA,0.0,0.0,0.0,5.0,2.0,4.0,1.0,0
 Lilly Lee Henry,USA,6.0,5.0,0.0,3.0,2.0,0.0,0.0,0
 Lilly Michael,USA,1.0,4.0,0.0,1.0,1.0,0.0,1.0,0
 Lim Alex,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lim Hyun Gyu,KOR,,,0.0,0.0,0.0,2.0,2.0,0
+Lim Hyun Gyu,KOR,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0
 Lim Jae Suk,KOR,2.0,1.0,0.0,0.0,0.0,2.0,1.0,0
 Lim Julius,KOR,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lim Jun Soo,KOR,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -711,9 +711,9 @@ Lima Arlindo,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lima Camila,BRA,2.0,4.0,0.0,1.0,0.0,0.0,3.0,0
 Lima Carlos,BRA,0.0,3.0,0.0,0.0,2.0,0.0,1.0,0
 Lima Daniel,BRA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
-Lima Dhiego,BRA,,,0.0,4.0,5.0,5.0,1.0,0
+Lima Dhiego,BRA,0.0,0.0,0.0,4.0,5.0,5.0,1.0,0
 Lima Diogo,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Lima Douglas,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Lima Douglas,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lima Elton,BRA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Lima Eric Souza,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lima Erickson,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -724,11 +724,11 @@ Lima Gabriel,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lima Gildo,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lima Gilmar Dutra,BRA,0.0,9.0,1.0,0.0,5.0,0.0,1.0,0
 Lima Igor,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lima Juliana,BRA,,,0.0,2.0,0.0,0.0,1.0,0
+Lima Juliana,BRA,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0
 Lima Mabelly,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lima Nelson,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lima Paulo,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lima Rodrigo,BRA,,,0.0,3.0,0.0,6.0,2.0,0
+Lima Rodrigo,BRA,0.0,0.0,0.0,3.0,0.0,6.0,2.0,0
 Lima Rodrigo Novaes,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lima Sidney,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lima Ubiratan Marinho,BRA,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0
@@ -759,8 +759,8 @@ Lincoln Cody,CHN,4.0,2.0,0.0,0.0,2.0,4.0,0.0,0
 Lindemeyer David,CHN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Linden Toni,CHN,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0
 Linder Dave,USA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
-Linderman D.J.,USA,,,0.0,6.0,5.0,5.0,1.0,0
-Lindland Matt,USA,,,0.0,8.0,4.0,7.0,4.0,0
+Linderman D.J.,USA,0.0,0.0,0.0,6.0,5.0,5.0,1.0,0
+Lindland Matt,USA,0.0,0.0,0.0,8.0,4.0,7.0,4.0,0
 Lindley LeJerrian,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lindor Mikerson,USA,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0
 Lindow Lee,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -771,15 +771,15 @@ Lindsay Jeff,USA,1.0,5.0,0.0,1.0,2.0,0.0,3.0,0
 Lindsay Nathan,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lindsay Schuyler,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lindsay Tim,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lindsey Jake,USA,,,0.0,5.0,3.0,4.0,3.0,0
+Lindsey Jake,USA,0.0,0.0,0.0,5.0,3.0,4.0,3.0,0
 Lindsey Rudy,USA,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0
 Lindsey Shai,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lineker John,BRA,,,0.0,0.0,0.0,4.0,3.0,0
+Lineker John,BRA,0.0,0.0,0.0,0.0,0.0,4.0,3.0,0
 Ling Mike,BRA,0.0,4.0,0.0,0.0,1.0,0.0,2.0,0
 Lingo Austin,USA,9.0,1.0,0.0,3.0,0.0,2.0,0.0,0
 Lingskog Mike,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Linhares Lucio,BRA,4.0,7.0,0.0,2.0,5.0,1.0,1.0,0
-Linhares Maike,BRA,,,0.0,5.0,0.0,5.0,0.0,0
+Linhares Maike,BRA,0.0,0.0,0.0,5.0,0.0,5.0,0.0,0
 Linhares Valdir,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Linke Maciej,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Linke Mariusz,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -789,16 +789,16 @@ Lino Amanda,RSA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Linowski Karol,RSA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lins Jeferson,RSA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lins Morris Albert,BRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Lins Philipe,BRA,,,0.0,8.0,4.0,4.0,0.0,0
+Lins Philipe,BRA,0.0,0.0,0.0,8.0,4.0,4.0,0.0,0
 Lins Ricardo Eduardo,BRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Lins Vinicius,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Lins Vinicius,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Linsley Wes,BRA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Linton Dennis,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Linton Steve,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Liou Jenny,USA,8.0,5.0,0.0,1.0,3.0,3.0,0.0,0
 Lipp Andrew,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lipscomb Stephen,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lipski Ariane,BRA,,,0.0,6.0,3.0,3.0,0.0,0
+Lipski Ariane,BRA,0.0,0.0,0.0,6.0,3.0,3.0,0.0,0
 Lipski Grzegorz,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lipski Kamil,GER,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Lipton Drew,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
@@ -813,9 +813,9 @@ Lisboa Tainara,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lischi Filippo,BRA,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
 Lischuk Dmitry,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lisin Arkadiy,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lisita Rob,AUS,,,0.0,4.0,1.0,7.0,4.0,0
+Lisita Rob,AUS,0.0,0.0,0.0,4.0,1.0,7.0,4.0,0
 Liskova Eva,AUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lister Dean,USA,,,0.0,0.0,0.0,9.0,0.0,0
+Lister Dean,USA,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0
 Lister Kieran,ENG,7.0,2.0,2.0,5.0,1.0,0.0,0.0,0
 Lister Lamont,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Liston Adam,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -853,31 +853,31 @@ Livingston Justin,CHN,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Livingston Quentin,CHN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lizama Ray,CHN,2.0,5.0,0.0,1.0,2.0,0.0,0.0,0
 Llamas J.C.,USA,8.0,7.0,0.0,1.0,1.0,4.0,0.0,0
-Llamas Tony,USA,,,0.0,7.0,1.0,9.0,1.0,0
+Llamas Tony,USA,0.0,0.0,0.0,7.0,1.0,9.0,1.0,0
 Llampa Pablo Javier,ARG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lloreda Marcos,ARG,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0
 Lloret Rogent,ESP,2.0,4.0,1.0,0.0,2.0,0.0,1.0,0
-Lloveras Abner,ESP,,,0.0,7.0,3.0,6.0,1.0,0
+Lloveras Abner,ESP,0.0,0.0,0.0,7.0,3.0,6.0,1.0,0
 Lloyd Chris,ESP,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lloyd David,ESP,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lo Matar,CAN,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lo-A-Njoe Brian,NED,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 LoBasso Douglas,NED,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lobato Andre,BRA,,,0.0,5.0,1.0,0.0,0.0,0
+Lobato Andre,BRA,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0
 Lobban Kevin,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lober John,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lobet Stephane,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lobida Jordan,PHI,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lobos Angelica,PHI,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 LoBosco Nick,USA,8.0,1.0,0.0,3.0,0.0,3.0,1.0,0
-Lobov Artem,IRL,,,0.0,5.0,1.0,2.0,2.0,0
+Lobov Artem,IRL,0.0,0.0,0.0,5.0,1.0,2.0,2.0,0
 Lobs Heather,IRL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lobzhanidze Giorgi,IRL,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Loca Julio,IRL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lock Kamal,IRL,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lockard Dylan,USA,6.0,2.0,0.0,3.0,0.0,1.0,1.0,0
-Locke James,USA,,,0.0,0.0,0.0,0.0,0.0,0
-Locke Jerome,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Locke James,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Locke Jerome,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Locken Benjamin,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lockett Andrew,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lockhart Danny,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -894,7 +894,7 @@ Loftin Jon,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lofton Aron,USA,1.0,3.0,0.0,1.0,2.0,0.0,1.0,0
 Lofton Lavelle,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lofts Chris,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Logan Bryce,USA,,,0.0,2.0,2.0,2.0,1.0,0
+Logan Bryce,USA,0.0,0.0,0.0,2.0,2.0,2.0,1.0,0
 Logan Dave,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Logan Daylin,USA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Logasca Jonar,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -902,31 +902,31 @@ Logsden Tom,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Logvina Marina,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Logvinenko Alexey,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Logvynchuk Yuriy,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lohore Alex,FRA,,,0.0,9.0,3.0,6.0,0.0,0
+Lohore Alex,FRA,0.0,0.0,0.0,9.0,3.0,6.0,0.0,0
 Lohsen Christian,USA,9.0,2.0,0.0,0.0,0.0,6.0,0.0,0
-Loiseau David,CAN,,,0.0,0.0,0.0,3.0,2.0,0
-Lokteff Chris,AUS,,,0.0,9.0,2.0,2.0,0.0,0
+Loiseau David,CAN,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0
+Lokteff Chris,AUS,0.0,0.0,0.0,9.0,2.0,2.0,0.0,0
 Loktev Arman,AUS,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Lolito Lolito,AUS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lolo Leonardo,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Loman Dan,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
-Loman Stephen,PHI,,,0.0,6.0,2.0,2.0,0.0,0
+Loman Stephen,PHI,0.0,0.0,0.0,6.0,2.0,2.0,0.0,0
 Lomanto Gilson,PHI,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Lomas Shaun,ENG,,,0.0,0.0,2.0,0.0,1.0,0
-Lombard Hector,CUB,,,0.0,0.0,0.0,7.0,0.0,0
-Lombardo Michael,USA,,,0.0,4.0,0.0,3.0,0.0,0
+Lomas Shaun,ENG,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0
+Lombard Hector,CUB,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0
+Lombardo Michael,USA,0.0,0.0,0.0,4.0,0.0,3.0,0.0,0
 Lomonosov Sergei,USA,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Londono Teo,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Long Brian,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Long Danny,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Long Drew,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Long Drew,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Long Dustin,USA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Long Jake,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Long Kyle,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Long Lewis,WAL,,,0.0,4.0,3.0,0.0,0.0,0
+Long Lewis,WAL,0.0,0.0,0.0,4.0,3.0,0.0,0.0,0
 Long Mark,WAL,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
-Long Robert,WAL,,,0.0,0.0,0.0,0.0,0.0,0
-Long Rocky,WAL,,,0.0,0.0,4.0,0.0,5.0,0
+Long Robert,WAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Long Rocky,WAL,0.0,0.0,0.0,0.0,4.0,0.0,5.0,0
 Long Yuan,WAL,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0
 Long Zach,USA,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0
 Longacre Thomas,USA,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -943,8 +943,8 @@ Loosa Ange,THA,7.0,2.0,0.0,5.0,0.0,1.0,0.0,0
 Lopatinski Yevgeny,THA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lopes Alan,THA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lopes Bruno,BRA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
-Lopes Diego,BRA,,,0.0,6.0,2.0,0.0,0.0,0
-Lopes Dileno,BRA,,,0.0,4.0,1.0,0.0,0.0,0
+Lopes Diego,BRA,0.0,0.0,0.0,6.0,2.0,0.0,0.0,0
+Lopes Dileno,BRA,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0
 Lopes Edison,BRA,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0
 Lopes Edson,BRA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Lopes Fabiano,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
@@ -955,7 +955,7 @@ Lopes Jose,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lopes Lohayne,BRA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Lopes Lucas,USA,4.0,6.0,0.0,2.0,3.0,0.0,1.0,0
 Lopes Luciano Aparecido,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Lopes Marcus Vinicius,BRA,,,0.0,1.0,1.0,3.0,2.0,0
+Lopes Marcus Vinicius,BRA,0.0,0.0,0.0,1.0,1.0,3.0,2.0,0
 Lopes Nilson,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lopes Paul,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lopes Reubem,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -969,7 +969,7 @@ Lopez Alberto,BRA,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0
 Lopez Alexander,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lopez Alfredo,MEX,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lopez Anael,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lopez Benito,USA,,,0.0,3.0,0.0,2.0,1.0,0
+Lopez Benito,USA,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0
 Lopez Brandon,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lopez Brian,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lopez Carlos,USA,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0
@@ -979,32 +979,32 @@ Lopez Claire,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lopez David,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Lopez Dervin,USA,1.0,4.0,0.0,0.0,1.0,1.0,1.0,0
 Lopez Diego,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lopez Ester,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Lopez Ester,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lopez Federico,USA,1.0,3.0,0.0,0.0,1.0,0.0,1.0,0
 Lopez Felix,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lopez Francelis,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lopez Gabriel,USA,1.0,4.0,0.0,0.0,3.0,1.0,0.0,0
 Lopez George,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lopez Gustavo,USA,,,0.0,5.0,3.0,6.0,0.0,0
+Lopez Gustavo,USA,0.0,0.0,0.0,5.0,3.0,6.0,0.0,0
 Lopez Hector,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lopez Ivan,MEX,,,0.0,2.0,0.0,5.0,0.0,0
+Lopez Ivan,MEX,0.0,0.0,0.0,2.0,0.0,5.0,0.0,0
 Lopez Jared,MEX,1.0,4.0,0.0,0.0,1.0,0.0,1.0,0
 Lopez Jesse,MEX,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lopez Joaquin,USA,5.0,1.0,0.0,5.0,0.0,0.0,0.0,0
 Lopez John,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lopez Johnny,USA,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lopez Jonathan,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lopez Jorge,USA,,,0.0,5.0,1.0,0.0,2.0,0
+Lopez Jorge,USA,0.0,0.0,0.0,5.0,1.0,0.0,2.0,0
 Lopez Jose,MEX,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lopez Juan,MEX,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lopez Kristi,USA,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0
 Lopez Marcelo,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Lopez Marco,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Lopez Marco,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lopez Marcos,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lopez Maria,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Lopez Mario,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lopez Marquez,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lopez Matthew,USA,,,0.0,4.0,2.0,4.0,1.0,0
+Lopez Matthew,USA,0.0,0.0,0.0,4.0,2.0,4.0,1.0,0
 Lopez Nelson,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lopez Patrick,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lopez Ralph,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -1016,7 +1016,7 @@ Lopez Ryan,MEX,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Lopez Sergio,MEX,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lopez Steve,USA,1.0,4.0,0.0,0.0,3.0,0.0,0.0,0
 Lopez Thomas,USA,0.0,4.0,0.0,0.0,0.0,0.0,3.0,0
-Lopez Tony,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Lopez Tony,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lopez Ulises,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lopez Vinnie,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Lopez Miranda Nayib,MEX,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0
@@ -1037,9 +1037,9 @@ Loua Jean,CAN,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Louchet Sebastien,CAN,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Louck Jason,USA,0.0,8.0,0.0,0.0,4.0,0.0,3.0,0
 Louck Royce,USA,0.0,5.0,0.0,0.0,3.0,0.0,2.0,0
-Loughnane Brendan,ENG,,,0.0,0.0,0.0,1.0,0.0,0
+Loughnane Brendan,ENG,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Loughran Greg,ENG,4.0,4.0,0.0,0.0,1.0,3.0,3.0,0
-Loughran Nate,USA,,,0.0,1.0,1.0,8.0,1.0,0
+Loughran Nate,USA,0.0,0.0,0.0,1.0,1.0,8.0,1.0,0
 Louhimo Outi,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Louis Edwin,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Louis Preston,USA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1064,25 +1064,25 @@ Lovato Lenny,BRA,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0
 Lovato Lynae,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lovato Mikey,BRA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Lovato Monica,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
-Lovato Jr. Rafael,USA,,,0.0,2.0,0.0,6.0,0.0,0
+Lovato Jr. Rafael,USA,0.0,0.0,0.0,2.0,0.0,6.0,0.0,0
 Lovatt Dan,ENG,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lovbrand Andreas,ENG,2.0,1.0,0.0,1.0,0.0,0.0,1.0,0
-Love Allan,SCT,,,0.0,6.0,1.0,5.0,1.0,0
+Love Allan,SCT,0.0,0.0,0.0,6.0,1.0,5.0,1.0,0
 Love David,SCT,1.0,3.0,0.0,0.0,2.0,1.0,0.0,0
 Love Wes,SCT,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0
 Lovejoy John,SCT,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lovelace Rashard,USA,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0
-Loveland Ian,USA,,,0.0,8.0,1.0,6.0,6.0,0
+Loveland Ian,USA,0.0,0.0,0.0,8.0,1.0,6.0,6.0,0
 Lovio Carlos,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lovrein Taylor,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lovstad Jakob,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lowe Archie,USA,6.0,7.0,0.0,0.0,3.0,5.0,4.0,0
 Lowe Brandon,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lowe Enrique,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lowe Kathina,USA,,,0.0,1.0,1.0,2.0,5.0,0
+Lowe Kathina,USA,0.0,0.0,0.0,1.0,1.0,2.0,5.0,0
 Lowe Nikki,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Lowe Tristin,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
-Lowe Waylon,USA,,,0.0,7.0,2.0,3.0,5.0,0
+Lowe Waylon,USA,0.0,0.0,0.0,7.0,2.0,3.0,5.0,0
 Lowe Wendell,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lowey John,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lowman Tom,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -1092,7 +1092,7 @@ Loycano Anthony,USA,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0
 Lozada Alcer,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lozada Nico,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lozano Adrian,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lozano Chris,USA,,,0.0,8.0,2.0,1.0,1.0,0
+Lozano Chris,USA,0.0,0.0,0.0,8.0,2.0,1.0,1.0,0
 Lozano Erick,USA,1.0,6.0,0.0,1.0,2.0,0.0,2.0,0
 Lozano IsReal,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Lozano Matthew,USA,5.0,6.0,0.0,1.0,3.0,3.0,1.0,0
@@ -1100,7 +1100,7 @@ Lozano Tom,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lozano Virgil,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lozino Cosme,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lu Jianbo,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lua Edgelson,ENG,,,0.0,0.0,0.0,0.0,0.0,0
+Lua Edgelson,ENG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lubbe Juan,ENG,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lubberts Collin,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lubonska Katarzyna,USA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1124,7 +1124,7 @@ Luciano Cleber,ITA,6.0,2.0,0.0,0.0,1.0,3.0,1.0,0
 Lucic Jure,ITA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Luczak Maciej,ITA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Ludtke Daniel,ITA,1.0,2.0,0.0,1.0,1.0,0.0,0.0,0
-Ludwig Duane,USA,,,0.0,0.0,0.0,6.0,6.0,0
+Ludwig Duane,USA,0.0,0.0,0.0,0.0,0.0,6.0,6.0,0
 Ludwig Mitchell,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Luff Nathan,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lugar Cain,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -1161,7 +1161,7 @@ Lukesh Andy,USA,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0
 Luko Caique,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lukow Livingston,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lullo Mike,USA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
-Lun Qiu,USA,,,0.0,5.0,3.0,3.0,2.0,0
+Lun Qiu,USA,0.0,0.0,0.0,5.0,3.0,3.0,2.0,0
 Luna Anselmo,USA,3.0,5.0,0.0,0.0,2.0,1.0,2.0,0
 Luna Anthony,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Luna Josh,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1169,14 +1169,14 @@ Luna Harris Derek,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lundberg Jeff,USA,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
 Lunegov Maxim,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lunga Aleksandr,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
-Lungiambula Dalcha,CGO,,,0.0,5.0,1.0,1.0,1.0,0
+Lungiambula Dalcha,CGO,0.0,0.0,0.0,5.0,1.0,1.0,1.0,0
 Lungrik Bohumil,CGO,0.0,6.0,0.0,0.0,5.0,0.0,1.0,0
 Lungu Alexandru,CGO,1.0,2.0,0.0,1.0,2.0,0.0,0.0,0
 Lunsford Eric,CGO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Luo Tianlong,CGO,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lupu Gheorghe,CGO,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Luque Sonny,CGO,8.0,7.0,0.0,2.0,1.0,2.0,6.0,0
-Luque Vicente,BRA,,,0.0,0.0,0.0,8.0,2.0,0
+Luque Vicente,BRA,0.0,0.0,0.0,0.0,0.0,8.0,2.0,0
 Lurchenkova Ania,BRA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lurette Bruno,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Luso Anderson,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1189,14 +1189,14 @@ Luther Shaun,BRA,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0
 Lutka Michal,BRA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lutman James,BRA,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Lutsenko Roman,BRA,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0
-Lutter Travis,USA,,,0.0,1.0,3.0,6.0,2.0,0
-Lutterbach Joilton,BRA,,,0.0,0.0,0.0,0.0,0.0,0
+Lutter Travis,USA,0.0,0.0,0.0,1.0,3.0,6.0,2.0,0
+Lutterbach Joilton,BRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Lutz Ed,BRA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lutz Tucker,USA,,,0.0,6.0,1.0,2.0,0.0,0
+Lutz Tucker,USA,0.0,0.0,0.0,6.0,1.0,2.0,0.0,0
 Luv Umar,USA,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0
 Luvaas Brad,USA,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0
 Lux Freddie,USA,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0
-Luxenberg Barry,USA,,,0.0,0.0,0.0,0.0,0.0,0
+Luxenberg Barry,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 Luz da Silva Rodivan,USA,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lvova Marina,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
 Ly Sico,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
@@ -1217,7 +1217,7 @@ Lynn Tycen,USA,0.0,4.0,0.0,0.0,2.0,0.0,1.0,0
 Lyon Eric,USA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0
 Lyon Justin,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lyon Sandro,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
-Lyons Austin,USA,,,0.0,1.0,3.0,7.0,2.0,0
+Lyons Austin,USA,0.0,0.0,0.0,1.0,3.0,7.0,2.0,0
 Lyons Brandon,USA,0.0,5.0,0.0,0.0,1.0,0.0,4.0,0
 Lyons Calvin,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lyons Michael,USA,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
@@ -1226,5 +1226,5 @@ Lyons Steven,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lyons Tyrone,USA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0
 Lysak Jan,USA,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0
 Lysoniewski Lukasz,POL,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0
-Lytle Chris,USA,,,0.0,4.0,2.0,0.0,0.0,0
+Lytle Chris,USA,0.0,0.0,0.0,4.0,2.0,0.0,0.0,0
 Lytle Michael,USA,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0
